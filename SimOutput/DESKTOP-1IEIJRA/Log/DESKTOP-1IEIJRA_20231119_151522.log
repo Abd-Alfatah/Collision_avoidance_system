@@ -1,0 +1,20 @@
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-19 15:16:00
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	21.656
+SIM_END		Thesis/CarMaker_test	21.653s	378.406m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-19 15:16:32
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	44.243
+SIM_END		Thesis/CarMaker_test	44.243s	955.921m

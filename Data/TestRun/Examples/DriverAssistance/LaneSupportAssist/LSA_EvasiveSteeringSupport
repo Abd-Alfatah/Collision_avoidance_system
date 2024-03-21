@@ -1,0 +1,344 @@
+#INFOFILE1.1 (UTF-8) - Do not remove this line!
+FileIdent = CarMaker-TestRun 12
+FileCreator = CarMaker 12.0 TEMPLATE
+FileClass.Edition = pro
+Description:
+	Autonomous steering support at column for evasion when anticipated vehicle collision is detected.
+Vehicle = Examples/DemoCar_EuroNCAP
+Trailer =
+Tire.0 =
+Tire.1 =
+Tire.2 =
+Tire.3 =
+Snapshot.TimeLimit =
+Snapshot.DistLimit =
+VehicleLoad.0.mass = 0
+VehicleLoad.0.pos = 4.5 0.0 0.5
+VehicleLoad.1.mass = 0
+VehicleLoad.1.pos = 0.0 0.0 0.0
+VehicleLoad.2.mass = 0
+VehicleLoad.2.pos = 0.0 0.0 0.0
+VehicleLoad.3.mass = 0
+VehicleLoad.3.pos = 0.0 0.0 0.0
+TrailerLoad.0.mass = 0
+TrailerLoad.0.pos = 0.0 0.0 0.0
+TrailerLoad.1.mass = 0
+TrailerLoad.1.pos = 0.0 0.0 0.0
+TrailerLoad.2.mass = 0
+TrailerLoad.2.pos = 0.0 0.0 0.0
+Route.0.ID = 30
+Route.0.Name = Route_0
+Route.0.DrvPath.ID = 34
+Route.0.DrvPath:
+	33
+Route.1.ID = 31
+Route.1.Name = Route_1
+Route.1.DrvPath.ID = 35
+Route.1.DrvPath:
+	32
+Vehicle.Routing.Type = Route
+Vehicle.Routing.ObjId = 30
+Vehicle.StartPos.Type = Route
+Vehicle.StartPos.ObjId = 30
+Vehicle.StartPos = 0.00 0
+Vehicle.StartPos.Orientation = 0
+DrivMan.nMan = 1
+DrivMan.Man.Start.Velocity = 90
+DrivMan.Man.Start.GearNo = 5
+DrivMan.Man.Start.SteerAng = 0
+DrivMan.Man.Start.LaneOffset = 0.0
+DrivMan.Man.Start.OperatorActive = 1
+DrivMan.Man.Start.OperatorState = drive
+DrivMan.VhclOperator.Kind = IPGOperator 1
+DrivMan.Man.0.nLongSteps = 3
+DrivMan.Man.0.nLatSteps = 3
+DrivMan.Man.0.CombinedSteps = 1
+DrivMan.Man.0.MaxExec = 1
+DrivMan.Man.0.ConsiderDomain = own
+DrivMan.Man.0.Transition.Interrupt = end
+DrivMan.Man.0.Transition.EndCond = end
+DrivMan.Man.0.Transition.SimultanStart = end
+DrivMan.Man.0.LongStep.0.Info = Driving straight ahead until object detection
+DrivMan.Man.0.LongStep.0.EndCond = Sensor.Object.FrontRadar.relvTgt.dtct == 1 & Sensor.Object.FrontRadar.relvTgt.NearPnt.ds.x <40
+DrivMan.Man.0.LongStep.0.Cmds:
+	Eval first() ? LongCtrl.AEB.SwitchedOn = 0
+	Eval first() ? LatCtrl.LDW.SwitchedOn = 0
+	Eval first() ? LatCtrl.LKAS.SwitchedOn = 0
+DrivMan.Man.0.LongStep.0.Dyn = Driver 1 0 90
+DrivMan.Man.0.LongStep.1.Info = Steering support at column
+DrivMan.Man.0.LongStep.1.EndCond = Sensor.Object.FrontRadar.relvTgt.dtct==0 & abs(Sensor.Object.Camera.Obj.T00.NearPnt.ds.y) >3
+DrivMan.Man.0.LongStep.1.Cmds:
+	Eval (DM.Long.StepTime<=0.1) ? Steer.AssistTrqCol_Ext=80*DM.Long.StepTime : Steer.AssistTrqCol_Ext=8
+DrivMan.Man.0.LongStep.1.Dyn = Driver 1 0 90
+DrivMan.Man.0.LongStep.2.Info = Continue driving
+DrivMan.Man.0.LongStep.2.Cmds:
+	Eval (DM.Long.StepTime<=0.1) ? Steer.AssistTrqCol_Ext=8-80*DM.Long.StepTime : Steer.AssistTrqCol_Ext=0
+DrivMan.Man.0.LongStep.2.TimeLimit = 10
+DrivMan.Man.0.LongStep.2.Dyn = Driver 1 0 90
+DrivMan.Man.0.LatStep.0.Info = Driving straight ahead until object detection
+DrivMan.Man.0.LatStep.0.EndCond = Sensor.Object.FrontRadar.relvTgt.dtct == 1 & Sensor.Object.FrontRadar.relvTgt.NearPnt.ds.x <40
+DrivMan.Man.0.LatStep.0.Cmds:
+	Eval first() ? LongCtrl.AEB.SwitchedOn = 0
+	Eval first() ? LatCtrl.LDW.SwitchedOn = 0
+	Eval first() ? LatCtrl.LKAS.SwitchedOn = 0
+DrivMan.Man.0.LatStep.0.Dyn = Driver 0
+DrivMan.Man.0.LatStep.1.Info = Steering support at column
+DrivMan.Man.0.LatStep.1.EndCond = Sensor.Object.FrontRadar.relvTgt.dtct==0 & abs(Sensor.Object.Camera.Obj.T00.NearPnt.ds.y) >3
+DrivMan.Man.0.LatStep.1.Cmds:
+	Eval (DM.Long.StepTime<=0.1) ? Steer.AssistTrqCol_Ext=80*DM.Long.StepTime : Steer.AssistTrqCol_Ext=8
+DrivMan.Man.0.LatStep.1.Dyn = Step 0 0 0 abs 1
+DrivMan.Man.0.LatStep.1.SteerMode = Torque
+DrivMan.Man.0.LatStep.2.Info = Continue driving
+DrivMan.Man.0.LatStep.2.Cmds:
+	Eval (DM.Long.StepTime<=0.1) ? Steer.AssistTrqCol_Ext=8-80*DM.Long.StepTime : Steer.AssistTrqCol_Ext=0
+DrivMan.Man.0.LatStep.2.TimeLimit = 10
+DrivMan.Man.0.LatStep.2.Dyn = Driver 0
+Traffic.SpeedUnit = ms
+Traffic.IFF.FName =
+Traffic.IFF.Time.Name =
+Traffic.GenDriverBehavior.FName = Default
+Traffic.0.Name = T00
+Traffic.0.Info:
+	Vehicle 1, right lane, color: blue
+Traffic.0.DetectMask = 1 1
+Traffic.0.Template.ObjectKind = StatWithName
+Traffic.0.UpdRate = 200
+Traffic.0.AutoDrv.UpdRate = 200
+Traffic.0.Lighting = 0
+Traffic.0.FreeMotion = 0
+Traffic.0.TrailerName =
+Traffic.0.Template.FName = 1_Vehicles/Honda_Pilot_2016
+Traffic.0.AutoDriver.FName =
+Traffic.0.Routing.Type = Route
+Traffic.0.Routing.ObjId = 30
+Traffic.0.StartPos.Type = Route
+Traffic.0.StartPos.ObjId = 30
+Traffic.0.StartPos = 100.00 -0.3
+Traffic.0.StartPos.Orientation = 0.0 0.0 30.0
+Traffic.0.Template.Color = 0.0 0.0 1.0
+Traffic.0.nMan = 0
+Traffic.0.Man.Start.Velocity = 0.0
+Traffic.0.Man.TreatAtEnd = FreezePos
+Traffic.1.Name = T01
+Traffic.1.Info:
+	Vehicle 2, right lane, color: red
+Traffic.1.DetectMask = 1 1
+Traffic.1.Template.ObjectKind = StatWithName
+Traffic.1.UpdRate = 200
+Traffic.1.AutoDrv.UpdRate = 200
+Traffic.1.Lighting = 0
+Traffic.1.FreeMotion = 0
+Traffic.1.TrailerName =
+Traffic.1.Template.FName = 1_Vehicles/Renault_Megane_2016
+Traffic.1.AutoDriver.FName =
+Traffic.1.Routing.Type = Route
+Traffic.1.Routing.ObjId = 30
+Traffic.1.StartPos.Type = Route
+Traffic.1.StartPos.ObjId = 30
+Traffic.1.StartPos = 104.00 0.6
+Traffic.1.StartPos.Orientation = 0.0 0.0 -10.0
+Traffic.1.nMan = 0
+Traffic.1.Man.Start.Velocity = 0.0
+Traffic.1.Man.TreatAtEnd = FreezePos
+Traffic.N = 2
+Traffic.SourceSink.Active = 0
+DrivMan.OW.Active = 0
+DrivMan.OW.Quantities =
+DrivMan.OW.StartGearNo = 1
+DrivMan.OW.StartVelocity = 0.0
+DrivMan.OW.GasMax = 0.5
+DrivMan.OW.RefCh = Time
+DrivMan.OW.ConsiderRoadSigns = 0
+DrivMan.OW.sRoute.Offset = 0
+ErrorClass.0.Action = abort
+ErrorClass.0.Save =
+ErrorClass.0.WarningLimit = 3 5.0
+ErrorClass.1.Action = abort
+ErrorClass.1.Save =
+ErrorClass.1.WarningLimit = 3 5.0
+ErrorClass.2.Action = abort
+ErrorClass.2.Save =
+ErrorClass.2.WarningLimit = 3 5.0
+ErrorClass.3.Action = abort
+ErrorClass.3.Save =
+ErrorClass.3.WarningLimit = 3 5.0
+ErrorClass.4.Action = abort
+ErrorClass.4.Save =
+ErrorClass.4.WarningLimit = 3 5.0
+ErrorClass.5.Action = abort
+ErrorClass.5.Save =
+ErrorClass.5.WarningLimit = 3 5.0
+ErrorClass.6.Action = abort
+ErrorClass.6.Save = 0
+ErrorClass.6.WarningLimit = 10 5
+ErrorClass.7.Action = abort
+ErrorClass.7.Save = 0
+ErrorClass.7.WarningLimit = 3 5
+ErrorClass.10.Action = abort
+ErrorClass.10.Save =
+ErrorClass.10.WarningLimit = 3 5.0
+ErrorClass.11.Action = abort
+ErrorClass.11.Save =
+ErrorClass.11.WarningLimit = 3 5.0
+Env.StartTime.Year = 2014
+Env.StartTime.Month = 1
+Env.StartTime.Day = 1
+Env.StartTime.Hour = 12
+Env.StartTime.Min = 0
+Env.StartTime.Sec = 0
+Env.StartTime.DeltaUTC = 0.0
+Env.GNav.Active = 0
+Env.Temperature = 20.0
+Env.AirDensity = 1.205
+Env.AirPressure = 1.013
+Env.AirHumidity = 60
+Env.SolarRadiation = 400.0
+Env.Sun.Position = angleDefinition
+Env.Sun.Azimuth = 45.0
+Env.Sun.Elevation = 45.0
+Env.Cloud.Kind = simple
+Env.Cloud.Height = 200
+Env.Cloud.Intensity = 0.1
+Env.Cloud.Velocity = 15
+Env.Cloud.Angle = 0
+Env.FogActive = 0
+Env.VisRangeInFog = 10000.0
+Env.FogUseSkyColor = 0
+Env.FogColor = 0.5 0.5 0.5
+Env.RainRate = 0.0
+Env.Wind.Kind = none
+Env.Wind.Velocity = 0.0
+Env.Wind.Angle = 0.0
+Env.Kind = Generic
+Env.Temp.Offset_Elev = -0.0065
+Env.Temp.Offset_sRoad.Amplify = 1.0
+Env.Temp.Offset_sRoad.On = 0
+Env.Temp.Offset_Time.Amplify = 1.0
+Env.Temp.Offset_Time.On = 1
+Env.Temp.Offset_Time:
+	0.0 -2.0
+	3.0 -2.5
+	6.0 -2.7
+	7.5 -2.7
+	9.0 -2.5
+	10.0 -2.3
+	11.0 -1.6
+	12.0 0.0
+	13.0 1.4
+	14.0 2.1
+	15.5 2.5
+	17.0 2.2
+	18.0 1.7
+	19.0 1.1
+	20.0 0.2
+	21.0 -0.6
+	22.0 -1.1
+	23.0 -1.6
+	24.0 -2.0
+Driver.ParamIdent = IPGDriver 5
+Driver.Mode = std
+Driver.Long.DrivMaxSpeed = 0
+Driver.Long.CruisingSpeed = 150
+Driver.CornerCutCoef = 0.5
+Driver.ConsiderTraffic = 0
+Driver.Traffic.TimeGapMin = 1.8
+Driver.Traffic.TimeGapMax = 5.0
+Driver.Traffic.DistMin = 6
+Driver.Traffic.DistMax = 250
+Driver.Traffic.EcoCoef = 0.75
+Driver.Traffic.Overtake = 0
+Driver.Traffic.Overtake_Rate = 1
+Driver.Traffic.Overtake_dSpeedMin = 10
+Driver.Long.dtAccBrake = 0.5
+Driver.Long.axMax = 3.0
+Driver.Long.axMin = -4.0
+Driver.Long.ayMax = 4.0
+Driver.Long.GGExp:
+	50 1.0 1.0
+Driver.Long.DevMax = 0.0
+Driver.Long.tReact = 0.0
+Driver.Long.TractionControl = 1
+Driver.DecShift.UseBrakePark = 0
+Driver.DecShift.tSwitchGear = 1.0
+Driver.DecShift.nEngine.Limits:
+	2500 5000
+Driver.DecShift.nEngine.Shift:
+	3000 4500
+Driver.Lat.DevMax = 0.0
+Driver.Lat.tReact = 0.0
+Driver.Knowl.Long.tActionMin = 4
+Driver.Knowl.Lat.StWhlAngleMax = 630
+Driver.Knowl.Lat.StWhlAngleVelMax = 500
+Driver.Knowl.Lat.StWhlAngleAccMax = 3000
+Driver.Learn.VehicleLimits.TestRun =
+Driver.Learn.VehicleLimits.Date = 0
+Driver.Learn.ControllerDyn.TestRun =
+Driver.Learn.ControllerDyn.Date = 0
+Driver.Learn.MaxSpeed.TestRun =
+Driver.Learn.MaxSpeed.Date = 0
+Driver.Learn.Remember = 0
+Driver.Learn.Friction = 1.0
+Driver.Knowl.Long.tPreviewBra = 0.6
+Driver.Knowl.Long.tPreviewAcc = 1.5
+Driver.Knowl.Lat.tPreview = 0.8
+Driver.Learn.NEng_S = 1
+Driver.Consider.SpeedLimit = 1
+Driver.Consider.StopMarker = 1
+Driver.Consider.TrfLight = 1
+Road.FileIdent = IPGRoad 12.0
+Road.LibVersion = 12.0.1
+Road.Country = DEU
+Road.nLinks = 1
+Road.nJunctions = 0
+Road.nObjects = 44
+Road.nRoutes = 2
+Road.RoadNetworkLength = 500
+Road.BBox = -10 510 -15.5 15.5 -11 11
+Road.Route.0.Length = 500
+Road.Route.1.Length = 500
+Road.RST.Unit = kmh
+Road.RST = 50 100 -1 30 70 50 -1 -1
+Road.Movie = 0.2 1 0.02 20 20 1 1
+Road.Visualization.SamplingParams = 0.2 1 0.02
+Road.Visualization.RoadsideWidth = 20 20
+Road.Visualization.RoadsideSlope = 1 1
+Road.Visualization.MovieNX.RenderMask = 4095
+Road.PathMode = -1
+Road.Terrain.Param = 50 25 300 100 0.75 0
+Road.Link.0.ID = 0
+Road.Link.0.Node0 = 0 0 0 0
+Road.Link.0.Node1 = 500 0 0 0
+Road.Link.0.RST = Countryroad
+Road.Link.0.RL.ID = 1
+Road.Link.0.Seg.0.ID = 2
+Road.Link.0.Seg.0.Type = Straight
+Road.Link.0.Seg.0.Param = 500 0 0 0 0 0 0 0
+Road.Link.0.LaneSection.0.ID = 3
+Road.Link.0.LaneSection.0.Start = 0
+Road.Link.0.LaneSection.0.LaneL.0.ID = 4
+Road.Link.0.LaneSection.0.LaneL.0 = 0 5 5 0 0 0 0
+Road.Link.0.LaneSection.0.LaneL.0.ARP = 49 50 51 52 53 54
+Road.Link.0.LaneSection.0.LaneL.1.ID = 5
+Road.Link.0.LaneSection.0.LaneL.1 = 2 0.5 0.5 5 0 0 0
+Road.Link.0.LaneSection.0.LaneR.0.ID = 6
+Road.Link.0.LaneSection.0.LaneR.0 = 0 5 5 0 0 0 0
+Road.Link.0.LaneSection.0.LaneR.0.ARP = 55 56 57 58 59 60
+Road.Link.0.LaneSection.0.LaneR.1.ID = 7
+Road.Link.0.LaneSection.0.LaneR.1 = 2 0.5 0.5 5 0 0 0
+Road.LanePath.0 = 32 4 2 10 0.1 0.1 -1 -1
+Road.LanePath.1 = 33 6 2 10 0.1 0.1 -1 -1
+Road.RL.1.GuidePost.0.ID = 23 1
+Road.RL.1.GuidePost.0 = 0 0 0 1 0.25 1 50
+Road.RL.1.GuidePost.1.ID = 24 1
+Road.RL.1.GuidePost.1 = 0 0 0 1 -0.25 -1 50
+Road.RL.1.TreeStrip.0.ID = 25 1
+Road.RL.1.TreeStrip.0 = 0 0 0 1 4 1 20 25 1 1 0.1 0.1
+Road.RL.1.TreeStrip.1.ID = 26 1
+Road.RL.1.TreeStrip.1 = 0 0 0 1 -4 -1 20 25 1 1 0.1 0.1
+Road.RL.1.RoadMarking.0.ID = 27 1
+Road.RL.1.RoadMarking.0 = 0 0 0 1 0 0 0.15 0 2 0 0 2 2 1 1 4 ""
+Road.RL.1.RoadMarking.1.ID = 28 1
+Road.RL.1.RoadMarking.1 = 0 0 0 1 -0.1 1 0.1 0 2 0 0 9 1 1 1 4 ""
+Road.RL.1.RoadMarking.2.ID = 29 1
+Road.RL.1.RoadMarking.2 = 0 0 0 1 0.1 -1 0.1 0 2 0 0 9 1 1 1 4 ""
+Road.MaxUsedObjId = 60

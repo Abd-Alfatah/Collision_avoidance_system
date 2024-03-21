@@ -1,0 +1,74 @@
+Logfile - Project update to CarMaker for Simulink 12.0.1
+===============================================================================
+
+Start: 2023-11-23 10:32:20
+
+Cleaning up temporary files...
+  Deleting temporary TestRun, Vehicle and Trailer files
+  Deleting temporary files in road cache
+  >> Finished.
+
+Creating source code backup ...
+  src_cm4sl/generic.mdl
+  -  Info: Copied file to src_cm4sl/generic_20231123_1032.mdl
+  1 source code files have been copied
+  >> Finished.
+
+ Back up parameter files...
+  Copy directory Data and its content to Data.backup
+  >> Finished.
+
+Deleting old unmodified template files...
+  Data/TestRun/Examples/DriverAssistance/LaneSupportAssist/LSA_CountryRoad
+  1 Files deleted, 0 errors occured
+  >> Finished.
+
+Copying new files to project directory...
+  306 Files copied, 0 errors occured
+  >> Finished.
+
+Converting Simulink models...
+  0 Files converted, 0 errors occured
+  >> Finished.
+
+Converting FMUs...
+  0 Files converted, 0 errors occured
+  >> Finished.
+
+Converting TestRuns and TestSeries...
+  0 Files converted, 0 errors occured
+  >> Finished.
+
+Converting IPGRoad files...
+  0 Files converted, 0 errors occured
+  >> Finished.
+
+Converting Vehicle files...
+  0 Files converted, 0 errors occured
+  >> Finished.
+
+Converting Trailer files...
+  0 Files converted, 0 errors occured
+  >> Finished.
+
+Converting sensor material files...
+  0 Files converted, 0 errors occured
+  >> Finished.
+
+Converting external sensor parametrization files...
+  0 Files converted, 0 errors occured
+  >> Finished.
+
+Converting Tire files...
+  0 Files converted, 0 errors occured
+  >> Finished.
+
+Converting configuration files...
+  0 Files converted, 0 errors occured
+  >> Finished.
+
+-------------------------------------------------------------------------------
+Update finished successfully. No errors occured
+-------------------------------------------------------------------------------
+
+End: 2023-11-23 10:32:49

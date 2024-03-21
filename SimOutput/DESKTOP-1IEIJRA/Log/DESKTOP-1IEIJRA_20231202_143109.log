@@ -1,0 +1,965 @@
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		A2:192.168.56.1.1 registered
+SIM_START	Thesis/CarMaker_test	2023-12-02 14:37:00
+TIME	0.001
+		Current random seed value = 1701524220
+ERROR		LidarRSI: Graphics adapter unavailable.
+Most likely the graphics adapter is not supported or the NVIDIA driver
+is not installed correctly.
+Refer to Release Notes to check which graphic cards are supported. (-21)
+ERROR		CM_Main.c: Initialization failed (CM_Main_Begin()=-3)
+SIM_ABORT	Thesis/CarMaker_test	0s	0m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-02 14:38:03
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+SIM_END		Thesis/CarMaker_test	0s	0m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-02 14:39:22
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	5.030
+SIM_END		Thesis/CarMaker_test	5.027s	11.2056m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		A3:192.168.56.1.1 registered
+SIM_START	Thesis/CarMaker_test	2023-12-02 14:40:03
+TIME	0.001
+		Current random seed value = 1701524403
+ERROR		LidarRSI: Graphics adapter unavailable.
+Most likely the graphics adapter is not supported or the NVIDIA driver
+is not installed correctly.
+Refer to Release Notes to check which graphic cards are supported. (-21)
+ERROR		CM_Main.c: Initialization failed (CM_Main_Begin()=-3)
+SIM_ABORT	Thesis/CarMaker_test	0s	0m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		A4:192.168.56.1.1 registered
+SIM_START	Thesis/CarMaker_test	2023-12-02 14:43:12
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+WARNING		CameraRSI: VDS client not running on simulation start. (-60)
+TIME	16.620
+ERROR		GPUSensor A4:192.168.56.1.1: Connection lost
+SIM_ABORT	Thesis/CarMaker_test	16.623s	33.9991m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-02 14:45:56
+TIME	0.001
+		Current random seed value = 1701524756
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	31.226
+SIM_END		Thesis/CarMaker_test	31.223s	33.9991m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Width'
+		DVA read: Unknown quantity 'Traffic.T00.tx'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.DistX'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+SIM_START	Thesis/CarMaker_test	2023-12-02 14:48:48
+TIME	0.001
+		Current random seed value = 1701524929
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	36.846
+SIM_END		Thesis/CarMaker_test	36.843s	33.9991m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-02 15:12:16
+TIME	0.001
+		Current random seed value = 1701526336
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	5.675
+SIM_END		Thesis/CarMaker_test	5.672s	16.6532m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-02 15:15:04
+TIME	0.001
+		Current random seed value = 1701526504
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	47.511
+SIM_END		Thesis/CarMaker_test	47.508s	33.9991m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-02 15:16:23
+TIME	0.001
+		Current random seed value = 1701526583
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	21.697
+SIM_END		Thesis/CarMaker_test	21.694s	33.9991m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Width'
+		DVA read: Unknown quantity 'Traffic.T00.tx'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToRightBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToLeftBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.nObj'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Dist'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DynProp'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.MeasStat'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.Width'
+SIM_START	Thesis/CarMaker_test	2023-12-02 15:17:09
+TIME	0.001
+		Current random seed value = 1701526629
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	27.801
+SIM_END		Thesis/CarMaker_test	27.798s	334.55m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-02 15:20:58
+TIME	0.001
+		Current random seed value = 1701526858
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	21.059
+SIM_END		Thesis/CarMaker_test	21.056s	164.553m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Width'
+		DVA read: Unknown quantity 'Traffic.T00.tx'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToRightBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToLeftBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.nObj'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Dist'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DynProp'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.MeasStat'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.Width'
+SIM_START	Thesis/CarMaker_test	2023-12-02 15:22:26
+TIME	0.001
+		Current random seed value = 1701526946
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	17.064
+SIM_END		Thesis/CarMaker_test	17.061s	82.9798m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-02 15:42:12
+TIME	0.001
+		Current random seed value = 1701528132
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	889.579m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Width'
+		DVA read: Unknown quantity 'Traffic.T00.tx'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToRightBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToLeftBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.nObj'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Dist'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DynProp'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.MeasStat'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.Width'
+SIM_START	Thesis/CarMaker_test	2023-12-02 16:23:16
+TIME	0.001
+		Current random seed value = 1701530596
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	23.873
+SIM_END		Thesis/CarMaker_test	23.87s	237.907m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-02 16:25:00
+TIME	0.001
+		Current random seed value = 1701530700
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	16.118
+SIM_END		Thesis/CarMaker_test	16.115s	70.4199m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Width'
+		DVA read: Unknown quantity 'Sensor.Road.VehSensor_0.Path.tx'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToRightBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToLeftBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.nObj'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Dist'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DynProp'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbObst'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbExist'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.MeasStat'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.Width'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Width'
+		DVA read: Unknown quantity 'Sensor.Road.VehSensor_0.Path.tx'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToRightBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToLeftBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.nObj'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Dist'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DynProp'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbObst'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbExist'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.MeasStat'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.Width'
+SIM_START	Thesis/CarMaker_test	2023-12-02 16:28:44
+TIME	0.001
+		Current random seed value = 1701530924
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	15.999
+SIM_END		Thesis/CarMaker_test	15.996s	69.0304m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Width'
+		DVA read: Unknown quantity 'Sensor.Road.VehSensor_0.Path.tx'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToRightBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToLeftBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.nObj'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Dist'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DynProp'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbObst'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbExist'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.MeasStat'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.Width'
+SIM_START	Thesis/CarMaker_test	2023-12-02 16:33:24
+TIME	0.001
+		Current random seed value = 1701531204
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	19.467
+SIM_END		Thesis/CarMaker_test	19.464s	126.565m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-02 16:35:32
+TIME	0.001
+		Current random seed value = 1701531332
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	24.985
+SIM_END		Thesis/CarMaker_test	24.982s	266.292m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Width'
+		DVA read: Unknown quantity 'Sensor.Road.VehSensor_0.Path.tx'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToRightBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToLeftBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.nObj'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Dist'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DynProp'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbObst'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbExist'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.MeasStat'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.Width'
+SIM_START	Thesis/CarMaker_test	2023-12-02 16:36:10
+TIME	0.001
+		Current random seed value = 1701531370
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	22.117
+SIM_END		Thesis/CarMaker_test	22.114s	192.169m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Width'
+		DVA read: Unknown quantity 'Traffic.T00.tx'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToRightBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToLeftBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.nObj'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Dist'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DynProp'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbObst'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbExist'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.MeasStat'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.Width'
+SIM_START	Thesis/CarMaker_test	2023-12-02 16:37:57
+TIME	0.001
+		Current random seed value = 1701531477
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	12.076
+SIM_END		Thesis/CarMaker_test	12.073s	45.9033m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Width'
+		DVA read: Unknown quantity 'Traffic.T00.rz'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToRightBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToLeftBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.nObj'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Dist'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DynProp'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbObst'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbExist'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.MeasStat'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.Width'
+SIM_START	Thesis/CarMaker_test	2023-12-02 16:43:17
+TIME	0.001
+		Current random seed value = 1701531797
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	32.778
+SIM_END		Thesis/CarMaker_test	32.775s	456.655m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Width'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToRightBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToLeftBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.nObj'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Dist'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DynProp'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbObst'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbExist'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.MeasStat'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.Width'
+SIM_START	Thesis/CarMaker_test	2023-12-02 16:50:57
+TIME	0.001
+		Current random seed value = 1701532257
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	4.003
+SIM_END		Thesis/CarMaker_test	4s	6.17946m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Width'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToRightBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToLeftBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.nObj'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Dist'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DynProp'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbObst'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbExist'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.MeasStat'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.Width'
+SIM_START	Thesis/CarMaker_test	2023-12-02 16:54:00
+TIME	0.001
+		Current random seed value = 1701532440
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	6.244
+SIM_END		Thesis/CarMaker_test	6.241s	23.0962m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-02 16:54:23
+TIME	0.001
+		Current random seed value = 1701532463
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	3.101
+SIM_END		Thesis/CarMaker_test	3.098s	2.44068m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-02 16:54:53
+TIME	0.001
+		Current random seed value = 1701532493
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	3.803
+SIM_END		Thesis/CarMaker_test	3.8s	5.14359m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Width'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToRightBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToLeftBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.nObj'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Dist'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DynProp'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbObst'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbExist'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.MeasStat'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.Width'
+SIM_START	Thesis/CarMaker_test	2023-12-02 16:56:52
+TIME	0.001
+		Current random seed value = 1701532612
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	6.903
+SIM_END		Thesis/CarMaker_test	6.9s	27.658m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-02 16:59:45
+TIME	0.001
+		Current random seed value = 1701532785
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	18.598
+SIM_END		Thesis/CarMaker_test	18.595s	108.822m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Width'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToRightBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToLeftBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.nObj'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Dist'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DynProp'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbObst'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbExist'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.MeasStat'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.Width'
+SIM_START	Thesis/CarMaker_test	2023-12-02 17:02:53
+TIME	0.001
+		Current random seed value = 1701532973
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	6.308
+SIM_END		Thesis/CarMaker_test	6.305s	23.5605m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-02 17:03:18
+TIME	0.001
+		Current random seed value = 1701532998
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	6.307
+SIM_END		Thesis/CarMaker_test	6.304s	23.5533m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Width'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToRightBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToLeftBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.nObj'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Dist'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DynProp'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbObst'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbExist'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.MeasStat'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.Width'
+SIM_START	Thesis/CarMaker_test	2023-12-02 17:04:28
+TIME	0.001
+		Current random seed value = 1701533068
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	5.464
+SIM_END		Thesis/CarMaker_test	5.461s	17.0499m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-02 17:08:12
+TIME	0.001
+		Current random seed value = 1701533292
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	10.302
+SIM_END		Thesis/CarMaker_test	10.299s	42.5548m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Width'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToRightBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToLeftBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.nObj'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Dist'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DynProp'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbObst'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbExist'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.MeasStat'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.Width'
+SIM_START	Thesis/CarMaker_test	2023-12-02 17:15:25
+TIME	0.001
+		Current random seed value = 1701533725
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	11.310
+SIM_END		Thesis/CarMaker_test	11.307s	44.631m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Width'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToRightBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToLeftBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.nObj'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Dist'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DynProp'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbObst'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbExist'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.MeasStat'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.Width'
+SIM_START	Thesis/CarMaker_test	2023-12-02 17:59:10
+TIME	0.001
+		Current random seed value = 1701536350
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	889.579m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Width'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToRightBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToLeftBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.nObj'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Dist'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DynProp'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbObst'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbExist'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.MeasStat'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.Width'
+SIM_START	Thesis/CarMaker_test	2023-12-02 18:01:10
+TIME	0.001
+		Current random seed value = 1701536470
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	889.579m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Width'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToRightBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToLeftBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.nObj'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Dist'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DynProp'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbObst'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbExist'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.MeasStat'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.Width'
+SIM_START	Thesis/CarMaker_test	2023-12-02 18:07:19
+TIME	0.001
+		Current random seed value = 1701536839
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	23.120
+SIM_END		Thesis/CarMaker_test	23.117s	218.386m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Width'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToRightBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToLeftBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.nObj'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Dist'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DynProp'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbObst'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbExist'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.MeasStat'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.Width'
+SIM_START	Thesis/CarMaker_test	2023-12-02 18:09:13
+TIME	0.001
+		Current random seed value = 1701536953
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	10.307
+SIM_END		Thesis/CarMaker_test	10.304s	42.5671m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Width'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToRightBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToLeftBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.nObj'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Dist'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DynProp'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbObst'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbExist'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.MeasStat'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.Width'
+SIM_START	Thesis/CarMaker_test	2023-12-02 18:10:06
+TIME	0.001
+		Current random seed value = 1701537006
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	10.305
+SIM_END		Thesis/CarMaker_test	10.302s	42.5622m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Width'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToRightBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToLeftBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.nObj'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Dist'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DynProp'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbObst'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbExist'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.MeasStat'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.Width'
+SIM_START	Thesis/CarMaker_test	2023-12-02 18:11:50
+TIME	0.001
+		Current random seed value = 1701537110
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	10.310
+SIM_END		Thesis/CarMaker_test	10.307s	42.5744m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Width'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToRightBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToLeftBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.nObj'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Dist'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DynProp'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbObst'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbExist'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.MeasStat'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.Width'
+SIM_START	Thesis/CarMaker_test	2023-12-02 18:14:46
+TIME	0.001
+		Current random seed value = 1701537286
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	22.005
+SIM_END		Thesis/CarMaker_test	22.002s	189.233m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-02 18:18:57
+TIME	0.001
+		Current random seed value = 1701537537
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	10.303
+SIM_END		Thesis/CarMaker_test	10.3s	42.5573m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Width'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToRightBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToLeftBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.nObj'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Dist'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DynProp'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbObst'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbExist'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.MeasStat'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.Width'
+SIM_START	Thesis/CarMaker_test	2023-12-02 18:19:54
+TIME	0.001
+		Current random seed value = 1701537594
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	16.237
+SIM_END		Thesis/CarMaker_test	16.234s	71.8517m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Width'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToRightBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.DistToLeftBorder'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.nObj'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Dist'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DistX'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.DynProp'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.Obj.T00.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbObst'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.ProbExist'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.Length'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj0.MeasStat'
+		DVA read: Unknown quantity 'Sensor.Radar.VehSensor_6.Obj1.Width'
+SIM_START	Thesis/CarMaker_test	2023-12-02 18:21:11
+TIME	0.001
+		Current random seed value = 1701537671
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	10.150
+SIM_END		Thesis/CarMaker_test	10.147s	42.1736m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Path_PedestrianCrossing	2023-12-02 20:24:21
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Path_PedestrianCrossing
+
+SIM_END		Examples/BasicFunctions/Traffic/Man_Path_PedestrianCrossing	0s	0m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Traffic/Man_Path_PedestrianCrossing	2023-12-02 20:26:24
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Traffic/Man_Path_PedestrianCrossing
+
+TIME	14.892
+SIM_END		Examples/BasicFunctions/Traffic/Man_Path_PedestrianCrossing	14.889s	23.0787m

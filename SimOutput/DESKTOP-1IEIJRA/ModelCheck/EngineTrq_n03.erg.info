@@ -1,0 +1,227 @@
+#INFOFILE1
+# Description file
+
+File.Format = erg
+File.ByteOrder = LittleEndian
+
+# 2 quantities of type 'Int'
+
+File.At.1.Name =	iRot
+File.At.1.Type =	Int
+
+File.At.2.Name =	iGas
+File.At.2.Type =	Int
+
+
+# 51 quantities of type 'Float'
+
+File.At.3.Name =	Time
+File.At.3.Type =	Float
+Quantity.Time.Unit =	s
+
+File.At.4.Name =	nRot
+File.At.4.Type =	Float
+Quantity.nRot.Unit =	rpm
+
+File.At.5.Name =	Gas
+File.At.5.Type =	Float
+
+File.At.6.Name =	Torque
+File.At.6.Type =	Float
+Quantity.Torque.Unit =	Nm
+
+File.At.7.Name =	Power
+File.At.7.Type =	Float
+Quantity.Power.Unit =	kW
+
+File.At.8.Name =	PT.Engine.be
+File.At.8.Type =	Float
+Quantity.PT.Engine.be.Unit =	g/kWh
+
+File.At.9.Name =	FGear.1.iDriveLine
+File.At.9.Type =	Float
+
+File.At.10.Name =	FGear.1.vVehicle
+File.At.10.Type =	Float
+Quantity.FGear.1.vVehicle.Unit =	km/h
+
+File.At.11.Name =	FGear.1.kappa
+File.At.11.Type =	Float
+Quantity.FGear.1.kappa.Unit =	1/m
+
+File.At.12.Name =	FGear.1.Frc_drive
+File.At.12.Type =	Float
+Quantity.FGear.1.Frc_drive.Unit =	N
+
+File.At.13.Name =	FGear.1.Pwr_drive
+File.At.13.Type =	Float
+Quantity.FGear.1.Pwr_drive.Unit =	kW
+
+File.At.14.Name =	FGear.2.iDriveLine
+File.At.14.Type =	Float
+
+File.At.15.Name =	FGear.2.vVehicle
+File.At.15.Type =	Float
+Quantity.FGear.2.vVehicle.Unit =	km/h
+
+File.At.16.Name =	FGear.2.kappa
+File.At.16.Type =	Float
+Quantity.FGear.2.kappa.Unit =	1/m
+
+File.At.17.Name =	FGear.2.Frc_drive
+File.At.17.Type =	Float
+Quantity.FGear.2.Frc_drive.Unit =	N
+
+File.At.18.Name =	FGear.2.Pwr_drive
+File.At.18.Type =	Float
+Quantity.FGear.2.Pwr_drive.Unit =	kW
+
+File.At.19.Name =	FGear.3.iDriveLine
+File.At.19.Type =	Float
+
+File.At.20.Name =	FGear.3.vVehicle
+File.At.20.Type =	Float
+Quantity.FGear.3.vVehicle.Unit =	km/h
+
+File.At.21.Name =	FGear.3.kappa
+File.At.21.Type =	Float
+Quantity.FGear.3.kappa.Unit =	1/m
+
+File.At.22.Name =	FGear.3.Frc_drive
+File.At.22.Type =	Float
+Quantity.FGear.3.Frc_drive.Unit =	N
+
+File.At.23.Name =	FGear.3.Pwr_drive
+File.At.23.Type =	Float
+Quantity.FGear.3.Pwr_drive.Unit =	kW
+
+File.At.24.Name =	FGear.4.iDriveLine
+File.At.24.Type =	Float
+
+File.At.25.Name =	FGear.4.vVehicle
+File.At.25.Type =	Float
+Quantity.FGear.4.vVehicle.Unit =	km/h
+
+File.At.26.Name =	FGear.4.kappa
+File.At.26.Type =	Float
+Quantity.FGear.4.kappa.Unit =	1/m
+
+File.At.27.Name =	FGear.4.Frc_drive
+File.At.27.Type =	Float
+Quantity.FGear.4.Frc_drive.Unit =	N
+
+File.At.28.Name =	FGear.4.Pwr_drive
+File.At.28.Type =	Float
+Quantity.FGear.4.Pwr_drive.Unit =	kW
+
+File.At.29.Name =	FGear.5.iDriveLine
+File.At.29.Type =	Float
+
+File.At.30.Name =	FGear.5.vVehicle
+File.At.30.Type =	Float
+Quantity.FGear.5.vVehicle.Unit =	km/h
+
+File.At.31.Name =	FGear.5.kappa
+File.At.31.Type =	Float
+Quantity.FGear.5.kappa.Unit =	1/m
+
+File.At.32.Name =	FGear.5.Frc_drive
+File.At.32.Type =	Float
+Quantity.FGear.5.Frc_drive.Unit =	N
+
+File.At.33.Name =	FGear.5.Pwr_drive
+File.At.33.Type =	Float
+Quantity.FGear.5.Pwr_drive.Unit =	kW
+
+File.At.34.Name =	FGear.6.iDriveLine
+File.At.34.Type =	Float
+
+File.At.35.Name =	FGear.6.vVehicle
+File.At.35.Type =	Float
+Quantity.FGear.6.vVehicle.Unit =	km/h
+
+File.At.36.Name =	FGear.6.kappa
+File.At.36.Type =	Float
+Quantity.FGear.6.kappa.Unit =	1/m
+
+File.At.37.Name =	FGear.6.Frc_drive
+File.At.37.Type =	Float
+Quantity.FGear.6.Frc_drive.Unit =	N
+
+File.At.38.Name =	FGear.6.Pwr_drive
+File.At.38.Type =	Float
+Quantity.FGear.6.Pwr_drive.Unit =	kW
+
+File.At.39.Name =	FGear.7.iDriveLine
+File.At.39.Type =	Float
+
+File.At.40.Name =	FGear.7.vVehicle
+File.At.40.Type =	Float
+Quantity.FGear.7.vVehicle.Unit =	km/h
+
+File.At.41.Name =	FGear.7.kappa
+File.At.41.Type =	Float
+Quantity.FGear.7.kappa.Unit =	1/m
+
+File.At.42.Name =	FGear.7.Frc_drive
+File.At.42.Type =	Float
+Quantity.FGear.7.Frc_drive.Unit =	N
+
+File.At.43.Name =	FGear.7.Pwr_drive
+File.At.43.Type =	Float
+Quantity.FGear.7.Pwr_drive.Unit =	kW
+
+File.At.44.Name =	FGear.8.iDriveLine
+File.At.44.Type =	Float
+
+File.At.45.Name =	FGear.8.vVehicle
+File.At.45.Type =	Float
+Quantity.FGear.8.vVehicle.Unit =	km/h
+
+File.At.46.Name =	FGear.8.kappa
+File.At.46.Type =	Float
+Quantity.FGear.8.kappa.Unit =	1/m
+
+File.At.47.Name =	FGear.8.Frc_drive
+File.At.47.Type =	Float
+Quantity.FGear.8.Frc_drive.Unit =	N
+
+File.At.48.Name =	FGear.8.Pwr_drive
+File.At.48.Type =	Float
+Quantity.FGear.8.Pwr_drive.Unit =	kW
+
+File.At.49.Name =	BGear.1.iDriveLine
+File.At.49.Type =	Float
+
+File.At.50.Name =	BGear.1.vVehicle
+File.At.50.Type =	Float
+Quantity.BGear.1.vVehicle.Unit =	km/h
+
+File.At.51.Name =	BGear.1.kappa
+File.At.51.Type =	Float
+Quantity.BGear.1.kappa.Unit =	1/m
+
+File.At.52.Name =	BGear.1.Frc_drive
+File.At.52.Type =	Float
+Quantity.BGear.1.Frc_drive.Unit =	N
+
+File.At.53.Name =	BGear.1.Pwr_drive
+File.At.53.Type =	Float
+Quantity.BGear.1.Pwr_drive.Unit =	kW
+
+
+CarMaker.Version =	12.0.1
+App.Version =		CarMaker 12.0.1 - Car_Generic
+App.BuildVersion =	5
+TestRun.Vehicle =	Demo_BMW_5
+TestRun.Tire.0 =	
+TestRun.Tire.1 =	
+TestRun.Tire.2 =	
+TestRun.Tire.3 =	
+PT.GB.nFGears =   8
+PT.GB.nBGears =   1
+PT.iDiff =        2.93
+PT.WhlRadius =    0.331
+PT.Gas =          1
+PT.Engine.rotv =  646.644
+Vehicle.MassTotal =  1600

@@ -1,0 +1,3520 @@
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 10:32:38
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+ERROR		CarMaker blocks executed in the wrong order or more than once per cycle (possible reasons: duplicate block or algebraic loop in model).
+SIM_ABORT	Thesis/CarMaker_test	0s	0m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 10:37:34
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+ERROR		CarMaker blocks executed in the wrong order or more than once per cycle (possible reasons: duplicate block or algebraic loop in model).
+SIM_ABORT	Thesis/CarMaker_test	0s	0m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 10:52:06
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	841.981m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 10:53:06
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	841.981m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 10:54:03
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	841.981m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 10:54:59
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	841.213m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 10:55:57
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	842.738m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 10:56:53
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	841.981m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 10:57:52
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	894.372m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 10:58:52
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	894.372m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 10:59:49
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	894.372m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:00:45
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	894.088m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:01:44
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	894.653m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:02:44
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	894.372m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:03:46
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	917.592m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:04:43
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	917.592m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:05:40
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	917.592m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:06:36
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	917.473m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:07:32
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	917.709m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:08:28
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	917.592m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:09:25
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	926.079m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:10:22
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	926.079m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:11:18
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	926.079m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:12:14
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	926.066m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:13:11
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	926.092m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:14:09
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	926.079m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:15:07
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	901.117m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:16:04
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	901.117m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:17:02
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	901.117m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:17:59
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	901.358m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:18:58
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	900.877m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:20:02
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	926.079m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:21:09
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	923.045m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:22:08
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	923.045m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:23:05
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	923.045m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:24:01
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	923.214m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:24:57
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	922.874m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:25:53
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	926.079m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:26:50
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	926.118m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:27:46
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	926.118m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:28:42
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	926.118m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:29:39
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	926.16m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:30:36
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	926.066m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:31:32
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	926.118m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:32:31
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	926.199m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:33:29
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	926.199m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:34:25
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	926.199m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:35:22
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	926.215m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:36:19
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	926.171m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:37:16
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	926.199m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:52:02
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	23.457
+SIM_END		Thesis/CarMaker_test	23.454s	405.15m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:52:38
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	36.516
+SIM_END		Thesis/CarMaker_test	36.516s	955.831m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:55:10
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	252.738m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:56:40
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	19.566
+SIM_END		Thesis/CarMaker_test	19.563s	28.0624m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 11:57:14
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	36.900
+ERROR		ObjectByLane Sensor 0: ObjByLane Eval failed
+SIM_ABORT	Thesis/CarMaker_test	36.903s	652.609m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Road.VehSensor_0.Path.CurveXY'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.dtct'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.alpha'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:04:03
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	17.398
+SIM_END		Thesis/CarMaker_test	17.395s	244.287m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:04:54
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	776.558m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.dtct'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.alpha'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:10:40
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	34.570
+SIM_END		Thesis/CarMaker_test	34.567s	107.04m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.dtct'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.alpha'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:11:59
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	828.656m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.dtct'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.alpha'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:13:18
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	33.733
+SIM_END		Thesis/CarMaker_test	33.73s	626.022m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:14:17
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	13.287
+SIM_END		Thesis/CarMaker_test	13.284s	270.234m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.dtct'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.alpha'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:14:56
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	850.55m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:22:19
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	187.537m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:23:16
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	10.678
+SIM_END		Thesis/CarMaker_test	10.675s	14.0202m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:23:42
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	803.828m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:24:41
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	803.828m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:25:38
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	803.828m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:26:34
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	799.78m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:27:30
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	807.803m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:28:26
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	803.831m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:29:22
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	803.828m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:30:19
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	803.828m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:31:17
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	854.353m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:32:13
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	854.353m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:33:09
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	854.353m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:34:05
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	852.136m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:35:01
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	856.535m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:35:57
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	854.4m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:36:53
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	854.307m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:37:49
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	854.353m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:38:46
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	900.81m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:39:43
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	900.81m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:40:39
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	900.81m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:41:35
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	899.67m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:42:31
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	901.944m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:43:29
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	900.929m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:44:29
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	900.699m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:45:31
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	900.81m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:46:31
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	932.772m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:47:31
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	932.772m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:48:29
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	932.772m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:49:26
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	932.14m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:50:26
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	933.385m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:51:21
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	932.897m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:52:17
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	932.633m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:53:13
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	932.772m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:54:10
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	950.016m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:55:06
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	950.016m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:56:02
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	950.016m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:56:58
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	949.691m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:57:54
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	950.337m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:58:50
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	950.108m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 20:59:46
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	950.015m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:00:55
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	950.016m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:02:00
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.002
+SIM_END		Thesis/CarMaker_test	50s	956.199m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:03:11
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.002
+SIM_END		Thesis/CarMaker_test	50s	956.199m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:04:24
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.002
+SIM_END		Thesis/CarMaker_test	50s	956.2m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:05:23
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	956.069m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:06:27
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.996
+SIM_END		Thesis/CarMaker_test	49.996s	956.203m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:07:35
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.000
+SIM_END		Thesis/CarMaker_test	50s	956.204m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:08:36
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.002
+SIM_END		Thesis/CarMaker_test	50s	956.199m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:09:36
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.002
+SIM_END		Thesis/CarMaker_test	50s	956.199m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:10:39
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.911
+SIM_END		Thesis/CarMaker_test	49.911s	956.189m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:11:40
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.911
+SIM_END		Thesis/CarMaker_test	49.911s	956.189m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:12:38
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.911
+SIM_END		Thesis/CarMaker_test	49.911s	956.19m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:13:39
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.914
+SIM_END		Thesis/CarMaker_test	49.914s	956.2m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:14:43
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.909
+SIM_END		Thesis/CarMaker_test	49.909s	956.2m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:15:45
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.910
+SIM_END		Thesis/CarMaker_test	49.91s	956.187m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:16:46
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.911
+SIM_END		Thesis/CarMaker_test	49.911s	956.189m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:17:48
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.911
+SIM_END		Thesis/CarMaker_test	49.911s	956.189m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:18:55
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.889
+SIM_END		Thesis/CarMaker_test	49.889s	956.193m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:19:54
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.889
+SIM_END		Thesis/CarMaker_test	49.889s	956.193m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:21:01
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.889
+SIM_END		Thesis/CarMaker_test	49.889s	956.18m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:22:03
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.889
+SIM_END		Thesis/CarMaker_test	49.889s	956.177m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:23:01
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.888
+SIM_END		Thesis/CarMaker_test	49.888s	956.179m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:23:59
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.891
+SIM_END		Thesis/CarMaker_test	49.891s	956.193m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:24:57
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.889
+SIM_END		Thesis/CarMaker_test	49.889s	956.193m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:25:55
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.889
+SIM_END		Thesis/CarMaker_test	49.889s	956.193m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:26:55
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.885
+SIM_END		Thesis/CarMaker_test	49.885s	956.192m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:27:53
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.885
+SIM_END		Thesis/CarMaker_test	49.885s	956.192m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:28:52
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.885
+SIM_END		Thesis/CarMaker_test	49.885s	956.192m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:29:50
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.884
+SIM_END		Thesis/CarMaker_test	49.884s	956.186m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:30:48
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.884
+SIM_END		Thesis/CarMaker_test	49.884s	956.183m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:31:50
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.885
+SIM_END		Thesis/CarMaker_test	49.885s	956.173m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:32:49
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.885
+SIM_END		Thesis/CarMaker_test	49.885s	956.192m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:33:48
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.885
+SIM_END		Thesis/CarMaker_test	49.885s	956.192m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:34:52
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.882
+SIM_END		Thesis/CarMaker_test	49.882s	956.184m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:35:54
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.882
+SIM_END		Thesis/CarMaker_test	49.882s	956.184m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:36:52
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.881
+SIM_END		Thesis/CarMaker_test	49.881s	956.183m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:37:50
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.882
+SIM_END		Thesis/CarMaker_test	49.882s	956.18m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:38:48
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.880
+SIM_END		Thesis/CarMaker_test	49.88s	956.17m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:39:46
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.884
+SIM_END		Thesis/CarMaker_test	49.884s	956.182m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:40:44
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.882
+SIM_END		Thesis/CarMaker_test	49.882s	956.184m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:41:42
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.882
+SIM_END		Thesis/CarMaker_test	49.882s	956.184m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:42:42
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.876
+SIM_END		Thesis/CarMaker_test	49.876s	956.173m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:43:40
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.876
+SIM_END		Thesis/CarMaker_test	49.876s	956.173m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:44:37
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.876
+SIM_END		Thesis/CarMaker_test	49.876s	956.172m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:45:35
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.877
+SIM_END		Thesis/CarMaker_test	49.877s	956.18m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:46:33
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.876
+SIM_END		Thesis/CarMaker_test	49.876s	956.183m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:47:31
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.878
+SIM_END		Thesis/CarMaker_test	49.878s	956.172m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:48:30
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.876
+SIM_END		Thesis/CarMaker_test	49.876s	956.173m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:49:28
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.876
+SIM_END		Thesis/CarMaker_test	49.876s	956.173m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:50:28
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.867
+SIM_END		Thesis/CarMaker_test	49.867s	956.172m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:51:27
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.867
+SIM_END		Thesis/CarMaker_test	49.867s	956.172m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:52:26
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.868
+SIM_END		Thesis/CarMaker_test	49.868s	956.179m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:53:29
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.869
+SIM_END		Thesis/CarMaker_test	49.869s	956.168m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:54:37
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.865
+SIM_END		Thesis/CarMaker_test	49.865s	956.183m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:55:54
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.870
+SIM_END		Thesis/CarMaker_test	49.87s	956.166m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:56:52
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.867
+SIM_END		Thesis/CarMaker_test	49.867s	956.172m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:57:49
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.867
+SIM_END		Thesis/CarMaker_test	49.867s	956.172m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:58:50
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.852
+SIM_END		Thesis/CarMaker_test	49.852s	956.176m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 21:59:47
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.852
+SIM_END		Thesis/CarMaker_test	49.852s	956.176m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 22:00:46
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.852
+SIM_END		Thesis/CarMaker_test	49.852s	956.17m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 22:01:47
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.856
+SIM_END		Thesis/CarMaker_test	49.856s	956.179m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 22:02:44
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.850
+SIM_END		Thesis/CarMaker_test	49.85s	956.178m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 22:03:39
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.856
+SIM_END		Thesis/CarMaker_test	49.856s	956.182m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 22:04:37
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.852
+SIM_END		Thesis/CarMaker_test	49.852s	956.176m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 22:05:35
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.852
+SIM_END		Thesis/CarMaker_test	49.852s	956.176m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 22:06:32
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.835
+SIM_END		Thesis/CarMaker_test	49.835s	956.167m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 22:07:28
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.835
+SIM_END		Thesis/CarMaker_test	49.835s	956.167m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 22:08:24
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.835
+SIM_END		Thesis/CarMaker_test	49.835s	956.167m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 22:09:20
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.839
+SIM_END		Thesis/CarMaker_test	49.839s	956.164m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 22:10:16
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.831
+SIM_END		Thesis/CarMaker_test	49.831s	956.165m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 22:11:12
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.839
+SIM_END		Thesis/CarMaker_test	49.839s	956.173m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 22:12:08
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.835
+SIM_END		Thesis/CarMaker_test	49.835s	956.167m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 22:13:04
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.835
+SIM_END		Thesis/CarMaker_test	49.835s	956.167m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 22:14:00
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.812
+SIM_END		Thesis/CarMaker_test	49.812s	956.158m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 22:14:56
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.812
+SIM_END		Thesis/CarMaker_test	49.812s	956.158m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 22:15:52
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.813
+SIM_END		Thesis/CarMaker_test	49.813s	956.175m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 23:05:09
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.817
+SIM_END		Thesis/CarMaker_test	49.817s	956.169m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 23:06:07
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.807
+SIM_END		Thesis/CarMaker_test	49.807s	956.177m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 23:07:03
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.816
+SIM_END		Thesis/CarMaker_test	49.816s	956.176m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 23:07:58
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.812
+SIM_END		Thesis/CarMaker_test	49.812s	956.158m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 23:08:54
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.812
+SIM_END		Thesis/CarMaker_test	49.812s	956.158m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 23:09:50
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.787
+SIM_END		Thesis/CarMaker_test	49.787s	956.169m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 23:10:45
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.787
+SIM_END		Thesis/CarMaker_test	49.787s	956.169m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 23:11:41
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.787
+SIM_END		Thesis/CarMaker_test	49.787s	956.169m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 23:12:36
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.793
+SIM_END		Thesis/CarMaker_test	49.793s	956.16m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 23:13:31
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.780
+SIM_END		Thesis/CarMaker_test	49.78s	956.164m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 23:14:27
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.789
+SIM_END		Thesis/CarMaker_test	49.789s	956.163m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 23:15:22
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.787
+SIM_END		Thesis/CarMaker_test	49.787s	956.169m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-25 23:16:18
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.787
+SIM_END		Thesis/CarMaker_test	49.787s	956.169m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 00:04:56
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	12.540
+SIM_END		Thesis/CarMaker_test	12.537s	169.355m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 00:05:31
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.787
+SIM_END		Thesis/CarMaker_test	49.787s	956.169m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 00:07:01
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	926.199m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 00:11:04
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	14.486
+SIM_END		Thesis/CarMaker_test	14.483s	247.516m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 00:13:17
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	948.489m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 10:10:52
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	944.036m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 10:12:48
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	36.149
+SIM_END		Thesis/CarMaker_test	36.149s	955.822m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 10:14:11
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	37.182
+SIM_END		Thesis/CarMaker_test	37.179s	358.259m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 10:15:47
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	488.13m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 10:17:56
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	488.13m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 10:25:46
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	488.13m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 10:27:41
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	488.13m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 10:54:21
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	488.13m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 10:55:40
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	488.13m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 11:05:46
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	36.297
+SIM_END		Thesis/CarMaker_test	36.294s	702.103m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 11:08:43
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	11.306
+SIM_END		Thesis/CarMaker_test	11.303s	141.054m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 11:10:20
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.787
+SIM_END		Thesis/CarMaker_test	49.787s	956.169m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 11:11:53
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.787
+SIM_END		Thesis/CarMaker_test	49.787s	956.169m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 11:16:52
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.787
+SIM_END		Thesis/CarMaker_test	49.787s	956.169m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 11:19:38
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	25.375
+SIM_END		Thesis/CarMaker_test	25.372s	488.899m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 11:20:38
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.787
+SIM_END		Thesis/CarMaker_test	49.787s	956.169m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 11:21:58
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	47.896
+SIM_END		Thesis/CarMaker_test	47.893s	916.514m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 11:23:26
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	49.787
+SIM_END		Thesis/CarMaker_test	49.787s	956.169m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 11:26:37
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	6.900
+ERROR		ObjectByLane Sensor 0: ObjByLane Eval failed
+SIM_ABORT	Thesis/CarMaker_test	6.903s	30.89m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 11:27:55
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	4.600
+ERROR		ObjectByLane Sensor 0: ObjByLane Eval failed
+SIM_ABORT	Thesis/CarMaker_test	4.603s	12.9903m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 11:38:48
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	11.700
+ERROR		ObjectByLane Sensor 0: ObjByLane Eval failed
+SIM_ABORT	Thesis/CarMaker_test	11.703s	134.586m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 11:43:34
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	9.417
+SIM_END		Thesis/CarMaker_test	9.414s	78.7769m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 11:47:40
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	5.900
+ERROR		ObjectByLane Sensor 0: ObjByLane Eval failed
+SIM_ABORT	Thesis/CarMaker_test	5.903s	21.8683m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 20:31:06
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 20:57:51
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+SIM_END		Thesis/CarMaker_test	0s	0m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 21:03:35
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+SIM_END		Thesis/CarMaker_test	0s	0m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 21:09:40
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 21:15:50
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 21:21:12
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	28.616
+SIM_END		Thesis/CarMaker_test	28.613s	555.212m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 21:22:34
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	11.480
+SIM_END		Thesis/CarMaker_test	11.477s	128.683m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 21:22:59
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	12.452
+SIM_END		Thesis/CarMaker_test	12.449s	155.103m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 21:25:08
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 21:26:32
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 21:27:55
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	6.200
+ERROR		ObjectByLane Sensor 0: ObjByLane Eval failed
+SIM_ABORT	Thesis/CarMaker_test	6.203s	25.318m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 21:28:59
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	11.700
+ERROR		ObjectByLane Sensor 0: ObjByLane Eval failed
+SIM_ABORT	Thesis/CarMaker_test	11.703s	134.607m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 21:32:19
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	6.500
+ERROR		ObjectByLane Sensor 0: ObjByLane Eval failed
+SIM_ABORT	Thesis/CarMaker_test	6.503s	29.0309m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 21:32:49
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	11.307
+SIM_END		Thesis/CarMaker_test	11.304s	124.067m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 21:33:27
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	16.900
+ERROR		ObjectByLane Sensor 0: ObjByLane Eval failed
+SIM_ABORT	Thesis/CarMaker_test	16.903s	269.94m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 21:34:07
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	21.600
+ERROR		ObjectByLane Sensor 0: Vehicle direction against path direction
+SIM_ABORT	Thesis/CarMaker_test	21.603s	382.997m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 21:34:50
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	25.389
+SIM_END		Thesis/CarMaker_test	25.386s	480.2m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 21:35:33
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	22.917
+SIM_END		Thesis/CarMaker_test	22.914s	417.431m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 21:45:33
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+SIM_END		Thesis/CarMaker_test	0s	0m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 21:50:15
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+SIM_END		Thesis/CarMaker_test	0.001s	3.24875e-07m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 21:51:19
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+SIM_END		Thesis/CarMaker_test	0.061s	0.000481432m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 21:52:18
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	4.286
+SIM_END		Thesis/CarMaker_test	4.283s	7.84702m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 21:55:07
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	6.461
+SIM_END		Thesis/CarMaker_test	6.458s	28.5198m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 21:59:07
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	11.997
+SIM_END		Thesis/CarMaker_test	11.994s	142.604m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 21:59:42
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	28.153
+SIM_END		Thesis/CarMaker_test	28.15s	544.623m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 22:02:39
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 22:04:54
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 22:06:33
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	23.065
+SIM_END		Thesis/CarMaker_test	23.062s	421.22m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 22:07:21
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	31.027
+SIM_END		Thesis/CarMaker_test	31.024s	612.372m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 22:09:14
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	34.707
+SIM_END		Thesis/CarMaker_test	34.704s	709.483m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 22:11:35
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	22.729
+SIM_END		Thesis/CarMaker_test	22.726s	412.848m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 22:12:55
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	31.099
+SIM_END		Thesis/CarMaker_test	31.096s	614.137m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 22:14:04
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	18.207
+SIM_END		Thesis/CarMaker_test	18.204s	304.624m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 22:14:54
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	27.165
+SIM_END		Thesis/CarMaker_test	27.162s	522.215m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 22:21:02
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 22:23:23
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 22:24:41
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	18.499
+SIM_END		Thesis/CarMaker_test	18.496s	311.618m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 22:25:45
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	13.003
+SIM_END		Thesis/CarMaker_test	13s	170.371m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 22:26:20
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	21.941
+SIM_END		Thesis/CarMaker_test	21.938s	393.585m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 22:27:29
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	10.932
+SIM_END		Thesis/CarMaker_test	10.929s	114.37m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 22:28:03
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 22:30:33
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 22:33:02
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	35.473
+SIM_END		Thesis/CarMaker_test	35.47s	729.658m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 22:34:03
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	33.524
+SIM_END		Thesis/CarMaker_test	33.521s	677.205m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 22:35:27
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 22:36:53
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 22:39:22
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	27.899
+SIM_END		Thesis/CarMaker_test	27.896s	538.852m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 22:40:25
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 22:42:17
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	17.150
+SIM_END		Thesis/CarMaker_test	17.147s	278.845m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-26 22:43:00
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 22:44:48
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 22:45:52
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-26 22:47:55
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m

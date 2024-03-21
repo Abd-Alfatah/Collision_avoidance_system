@@ -1,0 +1,677 @@
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 12:14:38
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	26.320
+SIM_END		Thesis/CarMaker_test	26.317s	502.631m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 12:15:59
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	10.320
+SIM_END		Thesis/CarMaker_test	10.317s	99.1965m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 12:16:20
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	21.308
+SIM_END		Thesis/CarMaker_test	21.305s	378.357m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 12:17:16
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	6.782
+SIM_END		Thesis/CarMaker_test	6.779s	32.7673m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 12:19:38
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 12:21:00
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	11.449
+SIM_END		Thesis/CarMaker_test	11.446s	127.859m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 12:21:35
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 12:22:54
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	41.580
+SIM_END		Thesis/CarMaker_test	41.577s	885.8m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 12:25:05
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	36.901
+SIM_END		Thesis/CarMaker_test	36.898s	765.693m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 12:25:57
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-27 12:51:24
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 12:53:19
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	34.229
+SIM_END		Thesis/CarMaker_test	34.226s	696.596m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-27 12:59:51
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	17.266
+SIM_END		Thesis/CarMaker_test	17.263s	281.716m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-27 13:00:34
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-27 13:02:08
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-27 13:03:43
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 13:05:35
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	31.516
+SIM_END		Thesis/CarMaker_test	31.513s	624.441m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 13:06:25
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	11.979
+SIM_END		Thesis/CarMaker_test	11.976s	142.114m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-27 13:07:29
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-27 13:08:27
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 13:09:34
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-27 13:10:47
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-27 13:12:09
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	25.323
+SIM_END		Thesis/CarMaker_test	25.32s	478.573m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-27 13:13:05
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 13:15:56
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	12.925
+SIM_END		Thesis/CarMaker_test	12.922s	168.211m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 13:16:36
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 13:17:28
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+SIM_END		Thesis/CarMaker_test	1.881s	0.526887m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-27 13:17:56
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 13:18:58
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	10.041
+SIM_END		Thesis/CarMaker_test	10.038s	92.6485m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 13:19:48
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	12.340
+SIM_END		Thesis/CarMaker_test	12.337s	152.01m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-27 13:20:08
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	4.857
+SIM_END		Thesis/CarMaker_test	4.854s	11.9695m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-27 13:20:33
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	31.466
+SIM_END		Thesis/CarMaker_test	31.463s	623.197m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-27 13:21:17
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-27 13:22:30
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	19.940
+SIM_END		Thesis/CarMaker_test	19.937s	345.798m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 13:23:45
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	5.870
+SIM_END		Thesis/CarMaker_test	5.867s	21.5389m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 13:24:09
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	14.553
+SIM_END		Thesis/CarMaker_test	14.55s	212.251m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-27 13:24:49
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	34.498
+SIM_END		Thesis/CarMaker_test	34.495s	703.876m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-27 13:25:44
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	28.843
+SIM_END		Thesis/CarMaker_test	28.84s	560.443m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.DrvLaneCurv'
+		DVA read: Unknown quantity 'Car.muRoadFR'
+		DVA read: Unknown quantity 'Car.muRoadRL'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds.z'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.ds_p'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.NearPnt.dv.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.ds.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.x'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.r_zyx.y'
+		DVA read: Unknown quantity 'Sensor.Object.RadarL.relvTgt.RefPnt.dv_p'
+SIM_START	Thesis/CarMaker_test	2023-11-27 13:26:43
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m

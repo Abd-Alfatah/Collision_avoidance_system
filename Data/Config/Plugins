@@ -1,0 +1,9 @@
+#INFOFILE1.1 (UTF-8) - Do not remove this line!
+FileIdent = CarMaker-Plugins 1
+FileCreator = CarMaker 12.0.1
+Environment.Generic =
+Environment.Generic.Info =
+Environment.Generic.Tags =
+HydBrakeSystem.HydESP = 3
+HydBrakeSystem.HydESP.Info =
+HydBrakeSystem.HydESP.Tags =

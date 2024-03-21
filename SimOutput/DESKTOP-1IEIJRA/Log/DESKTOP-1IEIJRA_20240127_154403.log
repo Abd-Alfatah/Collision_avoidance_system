@@ -1,0 +1,135 @@
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2024-01-27 15:48:53
+TIME	0.001
+		Current random seed value = 1706366933
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	30.722
+SIM_END		Thesis/CarMaker_test	30.719s	529.922m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2024-01-27 15:51:40
+TIME	0.001
+		Current random seed value = 1706367100
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	7.276
+SIM_END		Thesis/CarMaker_test	7.273s	38.2874m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2024-01-27 15:54:04
+TIME	0.001
+		Current random seed value = 1706367244
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	37.236
+SIM_END		Thesis/CarMaker_test	37.233s	691.651m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2024-01-27 15:56:35
+TIME	0.001
+		Current random seed value = 1706367395
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	3.659
+ERROR		Vehicle leaves road at about x=24.8609, y=-309.885 TireNo=1
+SIM_ABORT	Thesis/CarMaker_test	3.662s	13.5027m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2024-01-27 15:57:52
+TIME	0.001
+		Current random seed value = 1706367472
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	3.556
+SIM_END		Thesis/CarMaker_test	3.553s	12.6184m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2024-01-27 15:59:07
+TIME	0.001
+		Current random seed value = 1706367547
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	3.659
+ERROR		Vehicle leaves road at about x=24.8609, y=-309.885 TireNo=1
+SIM_ABORT	Thesis/CarMaker_test	3.662s	13.5027m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2024-01-27 16:00:18
+TIME	0.001
+		Current random seed value = 1706367618
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	14.576
+ERROR		Vehicle leaves road at about x=-27.9384, y=-204.751 TireNo=1
+SIM_ABORT	Thesis/CarMaker_test	14.579s	130.695m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2024-01-27 16:01:26
+TIME	0.001
+		Current random seed value = 1706367686
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	14.736
+ERROR		Vehicle leaves road at about x=-29.1085, y=-203.576 TireNo=1
+SIM_ABORT	Thesis/CarMaker_test	14.739s	132.326m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2024-01-27 16:03:32
+TIME	0.001
+		Current random seed value = 1706367812
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	35.297
+ERROR		Vehicle leaves road at about x=-79.6747, y=43.796 TireNo=0
+SIM_ABORT	Thesis/CarMaker_test	35.3s	433.475m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2024-02-01 09:20:28
+TIME	0.001
+		Current random seed value = 1706775628
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+SIM_END		Thesis/CarMaker_test	0s	0m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2024-02-01 09:23:11
+TIME	0.001
+		Current random seed value = 1706775791
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+SIM_END		Thesis/CarMaker_test	0s	0m

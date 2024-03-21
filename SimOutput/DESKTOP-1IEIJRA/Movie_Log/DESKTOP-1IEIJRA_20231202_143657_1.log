@@ -1,0 +1,20 @@
+2023-12-02 14:36:57.518  headless     INFO GPUSensor_1_0@DESKTOP-1IEIJRA --> 12.0.1 2023-5-24 (Microsoft Windows 10 Pro  64-Bit)
+2023-12-02 14:36:58.055  general      EROR RSIGetCudaInfo call failed : Graphics adapter unavailable.
+Most likely the graphics adapter is not supported or the NVIDIA driver
+is not installed correctly.
+Refer to Release Notes to check which graphic cards are supported.
+2023-12-02 14:36:58.055  general      EROR RayTracer::Glue::GetCudaDevicesInfo failed (rsi_result: -21)
+2023-12-02 14:37:02.596  headless     INFO GPUSensor_1_0@DESKTOP-1IEIJRA --> 
+------------------------------+
+ RSI Sensors for GPUSensor #1 |
+-------------+---------+----------+-----------------------------
+2023-12-02 14:37:02.596  headless     INFO GPUSensor_1_0@DESKTOP-1IEIJRA -->   Type        | Name    | Instance | For this GPUSensor instance
+-------------+---------+----------+-----------------------------
+2023-12-02 14:37:02.596  headless     INFO GPUSensor_1_0@DESKTOP-1IEIJRA -->  LidarRSI      VehSensor_6     1       yes
+2023-12-02 14:37:02.597  headless     INFO GPUSensor_1_0@DESKTOP-1IEIJRA --> ERROR: Graphics adapter unavailable.
+Most likely the graphics adapter is not supported or the NVIDIA driver
+is not installed correctly.
+Refer to Release Notes to check which graphic cards are supported.
+2023-12-02 14:37:02.722  headless     INFO GPUSensor_1_0@DESKTOP-1IEIJRA --> Scene loaded
+2023-12-02 14:37:03.854  headless     INFO GPUSensor_1_0@DESKTOP-1IEIJRA --> Simulation stopped at 0
+2023-12-02 14:37:31.752  headless     INFO GPUSensor_1_0@DESKTOP-1IEIJRA --> Closing IPGMovie

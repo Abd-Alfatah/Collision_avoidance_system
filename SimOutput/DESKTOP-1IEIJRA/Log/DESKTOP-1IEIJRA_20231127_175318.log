@@ -1,0 +1,474 @@
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 17:53:40
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	8.097
+SIM_END		Thesis/CarMaker_test	8.094s	53.1669m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 17:54:33
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	17.703
+SIM_END		Thesis/CarMaker_test	17.7s	292.435m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 17:55:08
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	40.249
+SIM_END		Thesis/CarMaker_test	40.246s	849.386m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 17:56:21
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	6.300
+ERROR		ObjectByLane Sensor 0: ObjByLane Eval failed
+SIM_ABORT	Thesis/CarMaker_test	6.303s	26.5289m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 17:56:43
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	8.300
+ERROR		ObjectByLane Sensor 0: ObjByLane Eval failed
+SIM_ABORT	Thesis/CarMaker_test	8.303s	56.7882m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 17:58:56
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	8.300
+ERROR		ObjectByLane Sensor 0: ObjByLane Eval failed
+SIM_ABORT	Thesis/CarMaker_test	8.303s	56.7941m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 17:59:22
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	8.300
+ERROR		ObjectByLane Sensor 0: ObjByLane Eval failed
+SIM_ABORT	Thesis/CarMaker_test	8.303s	56.7941m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 17:59:54
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	8.300
+ERROR		ObjectByLane Sensor 0: ObjByLane Eval failed
+SIM_ABORT	Thesis/CarMaker_test	8.303s	56.7891m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 18:01:11
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	4.300
+ERROR		ObjectByLane Sensor 0: ObjByLane Eval failed
+SIM_ABORT	Thesis/CarMaker_test	4.303s	7.89628m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 18:01:34
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	5.400
+ERROR		ObjectByLane Sensor 0: ObjByLane Eval failed
+SIM_ABORT	Thesis/CarMaker_test	5.403s	16.8188m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 18:02:02
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	14.163
+ERROR		Vehicle leaves road at about x=-87.0731, y=-164.145 TireNo=0
+SIM_ABORT	Thesis/CarMaker_test	14.166s	202.001m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 18:03:16
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	13.255
+ERROR		Vehicle leaves road at about x=-69.4365, y=-180.016 TireNo=0
+SIM_ABORT	Thesis/CarMaker_test	13.258s	177.475m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 18:04:11
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	11.600
+ERROR		ObjectByLane Sensor 0: ObjByLane Eval failed
+SIM_ABORT	Thesis/CarMaker_test	11.603s	131.994m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 18:05:33
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	6.800
+ERROR		ObjectByLane Sensor 0: ObjByLane Eval failed
+SIM_ABORT	Thesis/CarMaker_test	6.803s	27.0263m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 18:06:00
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+ERROR		Embedded FARoadSensor Geo:  xyz (nan nan nan) not found on Road
+SIM_ABORT	Thesis/CarMaker_test	0.54s	0.0139774m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 18:07:07
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	6.500
+ERROR		ObjectByLane Sensor 0: ObjByLane Eval failed
+SIM_ABORT	Thesis/CarMaker_test	6.503s	29.0351m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 18:07:55
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	6.300
+ERROR		ObjectByLane Sensor 0: ObjByLane Eval failed
+SIM_ABORT	Thesis/CarMaker_test	6.303s	26.5296m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 18:08:27
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	8.300
+ERROR		ObjectByLane Sensor 0: ObjByLane Eval failed
+SIM_ABORT	Thesis/CarMaker_test	8.303s	56.7937m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 18:09:03
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 18:10:38
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 18:30:00
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	39.955
+SIM_END		Thesis/CarMaker_test	39.952s	841.74m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 18:31:56
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 18:34:32
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 18:35:45
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 18:37:23
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 18:38:55
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	36.488
+SIM_END		Thesis/CarMaker_test	36.485s	755.473m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 18:44:01
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	21.404
+SIM_END		Thesis/CarMaker_test	21.401s	380.657m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 18:44:41
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	8.666
+SIM_END		Thesis/CarMaker_test	8.663s	63.5834m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 18:45:10
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	15.203
+SIM_END		Thesis/CarMaker_test	15.2s	229.26m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 18:45:58
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 18:46:57
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	29.878
+SIM_END		Thesis/CarMaker_test	29.875s	584.681m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 18:47:55
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	11.919
+SIM_END		Thesis/CarMaker_test	11.916s	140.484m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 18:49:27
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	24.445
+SIM_END		Thesis/CarMaker_test	24.442s	456.553m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 18:50:27
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	40.014
+SIM_END		Thesis/CarMaker_test	40.011s	843.265m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 18:51:22
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	17.680
+SIM_END		Thesis/CarMaker_test	17.677s	291.875m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 18:51:56
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	15.544
+SIM_END		Thesis/CarMaker_test	15.541s	238.097m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 18:53:01
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	14.586
+SIM_END		Thesis/CarMaker_test	14.583s	213.12m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 18:53:42
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 18:55:11
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	22.398
+SIM_END		Thesis/CarMaker_test	22.395s	404.702m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 18:55:47
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 18:57:16
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	16.994
+SIM_END		Thesis/CarMaker_test	16.991s	274.966m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 18:57:49
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	41.013
+SIM_END		Thesis/CarMaker_test	41.01s	869.908m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 19:01:33
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 19:03:17
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.337
+SIM_END		Thesis/CarMaker_test	43.334s	938.274m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 19:04:36
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	28.583
+SIM_END		Thesis/CarMaker_test	28.58s	554.454m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-27 19:05:56
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	43.906
+SIM_END		Thesis/CarMaker_test	43.906s	955.989m

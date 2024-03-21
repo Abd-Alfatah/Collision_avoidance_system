@@ -1,0 +1,119 @@
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Sensors/RoadSensor_DetectBendAndMarker	2023-11-20 22:22:24
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Sensors/RoadSensor_DetectBendAndMarker
+
+SIM_END		Examples/BasicFunctions/Sensors/RoadSensor_DetectBendAndMarker	0s	0m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Sensors/RoadSensor_DetectBendAndMarker	2023-11-20 22:22:41
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Sensors/RoadSensor_DetectBendAndMarker
+
+TIME	28.891
+SIM_END		Examples/BasicFunctions/Sensors/RoadSensor_DetectBendAndMarker	28.891s	495.659m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Sensors/RoadSensor_DetectBendAndMarker	2023-11-20 22:32:08
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Sensors/RoadSensor_DetectBendAndMarker
+
+TIME	28.891
+SIM_END		Examples/BasicFunctions/Sensors/RoadSensor_DetectBendAndMarker	28.891s	495.659m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Sensors/RoadSensor_DetectBendAndMarker	2023-11-20 22:34:12
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Sensors/RoadSensor_DetectBendAndMarker
+
+TIME	25.464
+SIM_END		Examples/BasicFunctions/Sensors/RoadSensor_DetectBendAndMarker	25.461s	451.65m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Sensors/RoadSensor_DetectBendAndMarker	2023-11-20 22:36:10
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Sensors/RoadSensor_DetectBendAndMarker
+
+TIME	18.780
+SIM_END		Examples/BasicFunctions/Sensors/RoadSensor_DetectBendAndMarker	18.777s	379.577m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Sensors/RoadSensor_DetectBendAndMarker	2023-11-20 22:37:11
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Sensors/RoadSensor_DetectBendAndMarker
+
+TIME	28.891
+SIM_END		Examples/BasicFunctions/Sensors/RoadSensor_DetectBendAndMarker	28.891s	495.659m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Sensors/RoadSensor_DetectBendAndMarker	2023-11-20 22:38:44
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Sensors/RoadSensor_DetectBendAndMarker
+
+TIME	28.891
+SIM_END		Examples/BasicFunctions/Sensors/RoadSensor_DetectBendAndMarker	28.891s	495.659m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Sensors/RoadSensor_DetectBendAndMarker	2023-11-20 22:41:22
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Sensors/RoadSensor_DetectBendAndMarker
+
+TIME	28.891
+SIM_END		Examples/BasicFunctions/Sensors/RoadSensor_DetectBendAndMarker	28.891s	495.659m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Examples/BasicFunctions/Sensors/RoadSensor_DetectBendAndMarker	2023-11-20 22:43:20
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Sensors/RoadSensor_DetectBendAndMarker
+
+TIME	28.891
+SIM_END		Examples/BasicFunctions/Sensors/RoadSensor_DetectBendAndMarker	28.891s	495.659m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-20 22:57:02
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	40.003
+SIM_END		Thesis/CarMaker_test	40s	813.347m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-21 12:06:53
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	40.003
+SIM_END		Thesis/CarMaker_test	40s	813.347m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-11-21 12:09:02
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	40.003
+SIM_END		Thesis/CarMaker_test	40s	813.347m

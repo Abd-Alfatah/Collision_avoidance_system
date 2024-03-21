@@ -1,0 +1,46 @@
+
+
+SYSTEM_START	-	DESKTOP-1IEIJRA	Wed Dec 27 15:57:02 2023
+
+
+SYSTEM_INFO	MovieNX pro 12.0.1 2023-05-24
+APO: Successfully connected to: CarMaker 12.0.1 - Car_Generic @ DESKTOP-1IEIJRA(127.0.0.1):11364
+Using RenderSettingsProfile: RenderSettings_high.cfg -> template_high.render
+Loading Installed scripts...
+Loading User scripts...
+Loading TestRun from path D:/Thesis/CarMaker_test/Data/TestRun/.tmp_DESKTOP-1IEIJRA_Admin.0
+WARNING: Could not find file . Search paths: D:/Thesis/CarMaker_test/TrafficSigns/, D:/IPG/carmaker/win64-12.0.1/TrafficSigns/
+WARNING: Could not find file . Search paths: D:/Thesis/CarMaker_test/TrafficSigns/, D:/IPG/carmaker/win64-12.0.1/TrafficSigns/
+WARNING: Could not find file . Search paths: D:/Thesis/CarMaker_test/TrafficSigns/, D:/IPG/carmaker/win64-12.0.1/TrafficSigns/
+WARNING: Could not find file . Search paths: D:/Thesis/CarMaker_test/TrafficSigns/, D:/IPG/carmaker/win64-12.0.1/TrafficSigns/
+WARNING: Could not find file . Search paths: D:/Thesis/CarMaker_test/TrafficSigns/, D:/IPG/carmaker/win64-12.0.1/TrafficSigns/
+WARNING: Could not find file 3D/Vehicles/BMW_5_2017_LaneTracking.objinfo. Search paths: D:/Thesis/CarMaker_test/MovieNX/data/, D:/IPG/movienx/win64-12.0.1/bin/../data/
+Loading TestRun from path D:/Thesis/CarMaker_test/Data/TestRun/.tmp_DESKTOP-1IEIJRA_Admin.1
+WARNING: Could not find file . Search paths: D:/Thesis/CarMaker_test/TrafficSigns/, D:/IPG/carmaker/win64-12.0.1/TrafficSigns/
+WARNING: Could not find file . Search paths: D:/Thesis/CarMaker_test/TrafficSigns/, D:/IPG/carmaker/win64-12.0.1/TrafficSigns/
+WARNING: Could not find file . Search paths: D:/Thesis/CarMaker_test/TrafficSigns/, D:/IPG/carmaker/win64-12.0.1/TrafficSigns/
+WARNING: Could not find file . Search paths: D:/Thesis/CarMaker_test/TrafficSigns/, D:/IPG/carmaker/win64-12.0.1/TrafficSigns/
+WARNING: Could not find file . Search paths: D:/Thesis/CarMaker_test/TrafficSigns/, D:/IPG/carmaker/win64-12.0.1/TrafficSigns/
+WARNING: Could not find file 3D/Vehicles/BMW_5_2017_LaneTracking.objinfo. Search paths: D:/Thesis/CarMaker_test/MovieNX/data/, D:/IPG/movienx/win64-12.0.1/bin/../data/
+Loading TestRun from path D:/Thesis/CarMaker_test/Data/TestRun/.tmp_DESKTOP-1IEIJRA_Admin.0
+WARNING: Could not find file . Search paths: D:/Thesis/CarMaker_test/TrafficSigns/, D:/IPG/carmaker/win64-12.0.1/TrafficSigns/
+WARNING: Could not find file . Search paths: D:/Thesis/CarMaker_test/TrafficSigns/, D:/IPG/carmaker/win64-12.0.1/TrafficSigns/
+WARNING: Could not find file . Search paths: D:/Thesis/CarMaker_test/TrafficSigns/, D:/IPG/carmaker/win64-12.0.1/TrafficSigns/
+WARNING: Could not find file . Search paths: D:/Thesis/CarMaker_test/TrafficSigns/, D:/IPG/carmaker/win64-12.0.1/TrafficSigns/
+WARNING: Could not find file . Search paths: D:/Thesis/CarMaker_test/TrafficSigns/, D:/IPG/carmaker/win64-12.0.1/TrafficSigns/
+WARNING: Could not find file 3D/Vehicles/BMW_5_2017_LaneTracking.objinfo. Search paths: D:/Thesis/CarMaker_test/MovieNX/data/, D:/IPG/movienx/win64-12.0.1/bin/../data/
+Loading TestRun from path D:/Thesis/CarMaker_test/Data/TestRun/.tmp_DESKTOP-1IEIJRA_Admin.1
+WARNING: Could not find file . Search paths: D:/Thesis/CarMaker_test/TrafficSigns/, D:/IPG/carmaker/win64-12.0.1/TrafficSigns/
+WARNING: Could not find file . Search paths: D:/Thesis/CarMaker_test/TrafficSigns/, D:/IPG/carmaker/win64-12.0.1/TrafficSigns/
+WARNING: Could not find file . Search paths: D:/Thesis/CarMaker_test/TrafficSigns/, D:/IPG/carmaker/win64-12.0.1/TrafficSigns/
+WARNING: Could not find file . Search paths: D:/Thesis/CarMaker_test/TrafficSigns/, D:/IPG/carmaker/win64-12.0.1/TrafficSigns/
+WARNING: Could not find file . Search paths: D:/Thesis/CarMaker_test/TrafficSigns/, D:/IPG/carmaker/win64-12.0.1/TrafficSigns/
+WARNING: Could not find file 3D/Vehicles/BMW_5_2017_LaneTracking.objinfo. Search paths: D:/Thesis/CarMaker_test/MovieNX/data/, D:/IPG/movienx/win64-12.0.1/bin/../data/
+Loading TestRun from path D:/Thesis/CarMaker_test/Data/TestRun/.tmp_DESKTOP-1IEIJRA_Admin.0
+WARNING: Could not find file . Search paths: D:/Thesis/CarMaker_test/TrafficSigns/, D:/IPG/carmaker/win64-12.0.1/TrafficSigns/
+WARNING: Could not find file . Search paths: D:/Thesis/CarMaker_test/TrafficSigns/, D:/IPG/carmaker/win64-12.0.1/TrafficSigns/
+WARNING: Could not find file . Search paths: D:/Thesis/CarMaker_test/TrafficSigns/, D:/IPG/carmaker/win64-12.0.1/TrafficSigns/
+WARNING: Could not find file . Search paths: D:/Thesis/CarMaker_test/TrafficSigns/, D:/IPG/carmaker/win64-12.0.1/TrafficSigns/
+WARNING: Could not find file . Search paths: D:/Thesis/CarMaker_test/TrafficSigns/, D:/IPG/carmaker/win64-12.0.1/TrafficSigns/
+WARNING: Could not find file 3D/Vehicles/BMW_5_2017_LaneTracking.objinfo. Search paths: D:/Thesis/CarMaker_test/MovieNX/data/, D:/IPG/movienx/win64-12.0.1/bin/../data/
+ApoConnection: Disconnecting...

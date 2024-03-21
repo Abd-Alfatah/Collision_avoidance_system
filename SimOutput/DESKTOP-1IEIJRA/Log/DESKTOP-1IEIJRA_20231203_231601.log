@@ -1,0 +1,43 @@
+APPLICATION	CarMaker 12.0.1 - Car_Generic #3 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:09
+ 
+		I/O Configuration: default
+FIRST_INIT	(internal default used)	2023-12-03 23:16:02
+TIME	0.000
+SIM_END			0s	0m
+IDLE	23:16:02
+SIM_START	Thesis/LSA_CountryRoad	2023-12-03 23:16:02
+TIME	0.517
+SIM_END		Thesis/LSA_CountryRoad	0s	0m
+SIM_START	Thesis/LSA_CountryRoad	2023-12-03 23:16:16
+TIME	0.000
+SIMULATE	Thesis/LSA_CountryRoad
+
+TIME	210.888
+SIM_END		Thesis/LSA_CountryRoad	210.885s	4848.01m
+TIME	213.562
+SIM_START	Thesis/LSA_CountryRoad	2023-12-03 23:20:15
+TIME	0.000
+SIMULATE	Thesis/LSA_CountryRoad
+
+TIME	2.441
+SIM_END		Thesis/LSA_CountryRoad	2.437s	1.63032m
+SIM_START	Thesis/CarMaker_test	2023-12-03 23:20:31
+TIME	0.083
+		Current random seed value = 1701642031
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	5.997
+SIM_END		Thesis/CarMaker_test	5.995s	19.2667m
+SIM_START	Thesis/CarMaker_test	2023-12-03 23:20:52
+TIME	0.080
+		Current random seed value = 1701642052
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	9.760
+SIM_END		Thesis/CarMaker_test	9.756s	32.5511m
+TIME	62.550
+SHUTDOWN	CarMaker quick shutdown initiated
+

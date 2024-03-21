@@ -1,0 +1,253 @@
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-18 20:49:59
+TIME	0.001
+		Current random seed value = 1702928999
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	46.655
+SIM_END		Thesis/CarMaker_test	46.655s	958.704m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-18 20:52:04
+TIME	0.001
+		Current random seed value = 1702929124
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	40.570
+SIM_END		Thesis/CarMaker_test	40.57s	959.557m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-18 20:53:08
+TIME	0.001
+		Current random seed value = 1702929188
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	36.341
+SIM_END		Thesis/CarMaker_test	36.341s	961.034m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-18 20:57:26
+TIME	0.001
+		Current random seed value = 1702929446
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	20.061
+ERROR		Vehicle leaves road at about x=-7.00964, y=96.0648 TireNo=3
+SIM_ABORT	Thesis/CarMaker_test	20.064s	524.211m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-18 20:58:07
+TIME	0.001
+		Current random seed value = 1702929487
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	35.495
+SIM_END		Thesis/CarMaker_test	35.495s	961.641m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-18 21:11:55
+TIME	0.001
+		Current random seed value = 1702930315
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	35.495
+SIM_END		Thesis/CarMaker_test	35.495s	961.641m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-18 21:18:01
+TIME	0.001
+		Current random seed value = 1702930681
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	35.495
+SIM_END		Thesis/CarMaker_test	35.495s	961.641m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-18 21:19:32
+TIME	0.001
+		Current random seed value = 1702930772
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	13.559
+SIM_END		Thesis/CarMaker_test	13.556s	19.4399m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-18 21:20:25
+TIME	0.001
+		Current random seed value = 1702930825
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	35.500
+SIM_END		Thesis/CarMaker_test	35.5s	961.623m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-18 21:21:27
+TIME	0.001
+		Current random seed value = 1702930887
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	35.500
+SIM_END		Thesis/CarMaker_test	35.5s	961.623m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-18 21:23:15
+TIME	0.001
+		Current random seed value = 1702930995
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	35.500
+SIM_END		Thesis/CarMaker_test	35.5s	961.623m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-18 21:26:00
+TIME	0.001
+		Current random seed value = 1702931160
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	36.664
+SIM_END		Thesis/CarMaker_test	36.664s	960.994m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-18 21:27:48
+TIME	0.001
+		Current random seed value = 1702931268
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	39.028
+SIM_END		Thesis/CarMaker_test	39.028s	959.849m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-18 21:30:53
+TIME	0.001
+		Current random seed value = 1702931453
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	39.028
+SIM_END		Thesis/CarMaker_test	39.028s	959.849m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-18 21:34:59
+TIME	0.001
+		Current random seed value = 1702931699
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	32.482
+SIM_END		Thesis/CarMaker_test	32.479s	772.912m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-18 21:41:38
+TIME	0.001
+		Current random seed value = 1702932098
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	39.028
+SIM_END		Thesis/CarMaker_test	39.028s	959.849m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-18 21:43:02
+TIME	0.001
+		Current random seed value = 1702932182
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	39.026
+SIM_END		Thesis/CarMaker_test	39.026s	958.394m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-18 21:44:32
+TIME	0.001
+		Current random seed value = 1702932272
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	39.026
+SIM_END		Thesis/CarMaker_test	39.026s	958.394m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-18 21:46:37
+TIME	0.001
+		Current random seed value = 1702932397
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	32.338
+SIM_END		Thesis/CarMaker_test	32.335s	768.895m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-18 21:47:19
+TIME	0.001
+		Current random seed value = 1702932439
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	39.028
+SIM_END		Thesis/CarMaker_test	39.028s	959.849m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2023-12-18 21:48:56
+TIME	0.001
+		Current random seed value = 1702932536
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	39.026
+SIM_END		Thesis/CarMaker_test	39.026s	958.394m

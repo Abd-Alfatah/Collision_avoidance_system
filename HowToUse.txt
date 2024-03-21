@@ -1,0 +1,8 @@
+The CarMaker_test folder contains the model for the integrated model with simulink, at this location 
+CarMaker_Simulink_thesis\CarMaker_test\src_cm4sl\generic_20231123_1032.mdl.
+- You first need to run cmenv.m and then the model it self.
+- After running the model (it will open in simulink) click Lunch CarMaker GUI after that, Run TwoDLook_uptable.m
+To load the necessary parameters.
+-Before that you must have CarMaker license to use.
+At CarMaker_Simulink_thesis\CarMaker_test\SimOutput\Videos, you can see the output videos for two test run
+at speed 115 km/h. (more description can be found in the thesis pdf file)

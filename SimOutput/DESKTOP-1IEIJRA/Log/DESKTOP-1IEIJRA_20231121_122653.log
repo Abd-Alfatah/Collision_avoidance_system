@@ -1,0 +1,83 @@
+APPLICATION	CarMaker 12.0.1 - Car_Generic #3 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:09
+ 
+		I/O Configuration: default
+FIRST_INIT	(internal default used)	2023-11-21 12:26:53
+TIME	0.000
+SIM_END			0s	0m
+IDLE	12:26:53
+TIME	5.287
+SIM_START	Thesis/CarMaker_test	2023-11-21 12:27:46
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	44.065
+SIM_END		Thesis/CarMaker_test	44.062s	955.958m
+SIM_START	Thesis/CarMaker_test	2023-11-21 12:28:42
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	28.460
+SIM_END		Thesis/CarMaker_test	28.457s	547.371m
+SIM_START	Thesis/CarMaker_test	2023-11-21 12:29:13
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	44.065
+SIM_END		Thesis/CarMaker_test	44.062s	955.958m
+TIME	49.263
+SIM_START	Thesis/CarMaker_test	2023-11-21 12:30:50
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	44.065
+SIM_END		Thesis/CarMaker_test	44.062s	955.958m
+TIME	47.849
+SIM_START	Thesis/CarMaker_test	2023-11-21 12:32:13
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	20.442
+SIM_END		Thesis/CarMaker_test	20.439s	352.958m
+SIM_START	Thesis/CarMaker_test	2023-11-21 12:32:51
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	44.064
+SIM_END		Thesis/CarMaker_test	44.062s	955.958m
+TIME	0.001
+SIM_START	Thesis/CarMaker_test	2023-11-21 12:34:24
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	9.495
+SIM_END		Thesis/CarMaker_test	9.492s	76.0198m
+TIME	22.515
+SIM_START	Thesis/CarMaker_test	2023-11-21 12:36:45
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	13.961
+SIM_END		Thesis/CarMaker_test	13.958s	191.128m
+SIM_START	Thesis/CarMaker_test	2023-11-21 12:37:02
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	44.064
+SIM_END		Thesis/CarMaker_test	44.062s	955.958m
+TIME	53.222
+SIM_START	Thesis/CarMaker_test	2023-11-21 15:36:35
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	44.065
+SIM_END		Thesis/CarMaker_test	44.062s	955.958m
+TIME	46.893
+SIM_START	Thesis/CarMaker_test	2023-11-21 15:37:48
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	44.065
+SIM_END		Thesis/CarMaker_test	44.062s	955.958m
+SHUTDOWN	CarMaker quick shutdown initiated
+

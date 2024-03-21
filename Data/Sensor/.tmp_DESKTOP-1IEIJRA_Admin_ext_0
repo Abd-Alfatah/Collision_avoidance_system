@@ -1,0 +1,13 @@
+#INFOFILE1.1 (UTF-8) - Do not remove this line!
+FileIdent = CarMaker-ObjectSensorParam 12
+FileCreator = CarMaker for Simulink 12.0.1
+Name = OB00_Camera
+FoV = 45 45
+CalcClass = NearestPoint
+Range = 100
+TObjQuants = 1
+TargetSelection = NearestInPath
+ObservRadius = 500
+
+
+## Additional Parameters #################################################

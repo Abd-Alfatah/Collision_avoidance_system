@@ -1,0 +1,58 @@
+APPLICATION	CarMaker 12.0.1 - Car_Generic #3 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:09
+ 
+		I/O Configuration: default
+FIRST_INIT	(internal default used)	2023-11-16 12:38:14
+TIME	0.000
+SIM_END			0s	0m
+IDLE	12:38:14
+SIM_START	unknown	2023-11-16 12:38:16
+TIME	0.066
+ERROR		Man 0, Step 2, end condition: unknown var "Car.Raod.sRoad"
+ERROR		Man 0, Step 2, end condition: unknown var "Car.Raod.sRoad"
+SIM_ABORT	unknown	0s	0m
+TIME	9.284
+SIM_START	unknown	2023-11-16 12:39:48
+TIME	0.000
+SIMULATE	unknown
+
+TIME	52.391
+SIM_END		unknown	52.388s	1245.12m
+TIME	57.851
+SIM_START	unknown	2023-11-16 12:41:36
+TIME	0.000
+SIMULATE	unknown
+
+TIME	51.923
+SIM_END		unknown	51.92s	1245.13m
+TIME	57.607
+SIM_START	unknown	2023-11-16 12:43:26
+TIME	0.000
+SIMULATE	unknown
+
+TIME	51.922
+SIM_END		unknown	51.92s	1245.13m
+TIME	76.394
+SIM_START	unknown	2023-11-16 12:48:24
+TIME	0.000
+SIMULATE	unknown
+
+TIME	14.971
+SIM_END		unknown	14.968s	214.361m
+TIME	18.816
+SIM_START	unknown	2023-11-16 12:49:19
+TIME	0.000
+SIMULATE	unknown
+
+TIME	44.243
+SIM_END		unknown	44.241s	955.948m
+TIME	46.635
+SIM_START	unknown	2023-11-16 12:50:28
+TIME	0.000
+SIMULATE	unknown
+
+TIME	44.243
+SIM_END		unknown	44.241s	955.948m
+TIME	62.869
+SHUTDOWN	CarMaker quick shutdown initiated
+

@@ -1,0 +1,24 @@
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2024-01-19 14:19:18
+TIME	0.001
+		Current random seed value = 1705670358
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	77.767
+SIM_END		Thesis/CarMaker_test	77.764s	946.75m
+APPLICATION	CarMaker 12.0.1 - Car_Generic #5 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:25
+ 
+		I/O Configuration: default
+SIM_START	Thesis/CarMaker_test	2024-01-19 14:31:51
+TIME	0.001
+		Current random seed value = 1705671111
+TIME	0.000
+SIMULATE	Thesis/CarMaker_test
+
+TIME	50.003
+SIM_END		Thesis/CarMaker_test	50s	936.144m

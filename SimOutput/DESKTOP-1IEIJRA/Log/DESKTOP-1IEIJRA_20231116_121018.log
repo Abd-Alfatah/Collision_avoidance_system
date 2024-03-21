@@ -1,0 +1,58 @@
+APPLICATION	CarMaker 12.0.1 - Car_Generic #3 (win64-12.0.1)
+COMPILED	jetbrains@66e0c34c4bd1 2023-05-24 12:39:09
+ 
+		I/O Configuration: default
+FIRST_INIT	(internal default used)	2023-11-16 12:10:19
+TIME	0.000
+SIM_END			0s	0m
+IDLE	12:10:19
+SIM_START	unknown	2023-11-16 12:10:20
+TIME	0.000
+SIMULATE	unknown
+
+TIME	38.111
+SIM_END		unknown	38.107s	150.589m
+SIM_START	unknown	2023-11-16 12:11:00
+TIME	0.000
+SIMULATE	unknown
+
+TIME	44.107
+SIM_END		unknown	44.105s	150.59m
+		DVA write: Unknown quantity 'AccelCtrl.ACC.IsActive'
+		DVA write: Unknown quantity 'AccelCtrl.ACC.IsActive'
+TIME	46.112
+		DVA write: Unknown quantity 'AccelCtrl.ACC.IsActive'
+		DVA write: Unknown quantity 'AccelCtrl.ACC.IsActive'
+		DVA write: Unknown quantity 'AccelCtrl.ACC.IsActive'
+		DVA write: Unknown quantity 'AccelCtrl.ACC.IsActive'
+		DVA write: Unknown quantity 'AccelCtrl.ACC.IsActive'
+		DVA write: Unknown quantity 'AccelCtrl.ACC.IsActive'
+		DVA write: Unknown quantity 'AccelCtrl.ACC.IsActive'
+		DVA write: Unknown quantity 'AccelCtrl.ACC.IsActive'
+		DVA write: Unknown quantity 'AccelCtrl.ACC.IsActive'
+		DVA write: Unknown quantity 'AccelCtrl.ACC.IsActive'
+		DVA write: Unknown quantity 'AccelCtrl.ACC.IsActive'
+TIME	49.290
+SIM_START	unknown	2023-11-16 12:12:38
+TIME	0.000
+SIMULATE	unknown
+
+TIME	49.194
+SIM_END		unknown	49.192s	150.591m
+TIME	52.909
+SIM_START	unknown	2023-11-16 12:14:05
+TIME	0.000
+SIMULATE	unknown
+
+TIME	29.001
+SIM_END		unknown	28.998s	150.587m
+SIM_START	unknown	2023-11-16 12:14:37
+TIME	0.000
+SIMULATE	unknown
+
+TIME	21.438
+SIM_END		unknown	21.435s	375.712m
+TIME	82.555
+		Connection to GUI lost, initiate shutdown
+SHUTDOWN	Automatic CarMaker shutdown initiated
+
