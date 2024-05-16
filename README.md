@@ -13,7 +13,7 @@ This thesis’s main goal is to create, develop, and assess a sophisticated emer
 - Discussing different controlling techniques and algorithms.
 - Seamless integration of Advanced Driver Assistance Systems (ADAS).
 - Extensive simulation experiments conducted primarily within the MATLAB/Simulink environment to validate the feasibility and effectiveness of the emergency collision avoidance system.
-- Using the system designed in MATLAB and validate in a Real Time simulation (RTL) environment.
+- Using the system designed in MATLAB and validating it in a Real-Time simulation (RTL) environment using CarMaker software.
 
 Eventually, the goal of this thesis is to advance the field of autonomous vehicle safety protocols and open the door to safer and more efficient transportation in a society that is becoming more and more automated.
 
@@ -30,9 +30,20 @@ Eventually, the goal of this thesis is to advance the field of autonomous vehicl
 - Navigate to the relevant directories (`code/`, `documentation/`, etc.) to access the files.
 - Refer to the documentation for detailed information on the research methodology, implementation details, and experimental results.
 
+### CarMaker Integration
+- The `CarMaker_test` folder contains the integrated model with Simulink, located at `CarMaker_Simulink_thesis/CarMaker_test/src_cm4sl/generic_20231123_1032.mdl`.
+- You need to first run `cmenv.m` and then the model itself.
+- After running the model (it will open in Simulink), click "Launch CarMaker GUI" and then run `TwoDLook_uptable.m` to load the necessary parameters.
+- Note: You must have a CarMaker license to use these features.
+- At `CarMaker_Simulink_thesis/CarMaker_test/SimOutput/Videos`, you can see the output videos for two test runs at a speed of 115 km/h. (More description can be found in the thesis PDF file)
+
+## Acknowledgments
+Special thanks to CarMaker for providing the license necessary to validate the model.
+
 ## License
-This project is licensed under the [MIT License](LICENSE).
+A CarMaker license is needed to run the project. More information can be found on their website: [CarMaker Licenses](https://www.ipg-automotive.com/en/support/licenses/).
 
 ## Contact
 For any inquiries or feedback, please feel free to contact me at [abdalfatah2000gg@gmail.com](mailto:abdalfatah2000gg@gmail.com).
+
 
