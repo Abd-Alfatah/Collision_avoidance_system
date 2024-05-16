@@ -19,7 +19,7 @@ Eventually, the goal of this thesis is to advance the field of autonomous vehicl
 
 ## Repository Structure
 - `code/`: Contains the MATLAB/Simulink code for implementing and testing the emergency collision avoidance system.
-- `documentation/`: Includes the LaTeX files and compiled PDF document for the thesis documentation.
+- `Development and Evaluation of an Emergency Collision Avoidance System for Autonomous Vehicles.pdf/`: Includes the compiled PDF document for the thesis documentation.
 - `data/`: Any relevant data files or datasets used in the research.
 - `references/`: Bibliography and reference files.
 - `LICENSE`: License information for the repository.
